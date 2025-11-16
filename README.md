@@ -2,14 +2,11 @@
 <h3 align="center">🚀 AI/ML Enthusiast | 🤖 Agent Builder | 🎯 Machine learning </h3>
 
 ---
-🧠 **About me**
 <h2>👨‍💻 About Me</h2>
 
 <p align="justify" style="font-size: 16px; line-height: 1.6;">
   I'm an enthusiastic AI/ML developer who loves turning data into intelligent solutions. With a strong foundation in Python, machine learning frameworks like TensorFlow and PyTorch, and hands-on experience in web technologies like HTML, CSS, and Flask — I build smart systems that solve real-world problems in healthcare, education, and sustainability. I enjoy crafting modular agent architectures, visualizing ML workflows, and deploying interactive dashboards that make insights accessible. My projects reflect a blend of creativity, clarity, and impact — backed by clean documentation, emoji-coded folders, and recruiter-friendly READMEs. Always curious, always building — let's shape the future with code 🤖✨
 </p>
-
-## 🧩 Tech Stack
 
 <h2>🧠 My Tech Stack</h2>
 
@@ -36,7 +33,6 @@
   </tr>
 </table>
 ---
-**Tools**
 <h2 align="center">🛠️ Tools & Technologies</h2>
 
 <table align="center" style="width:100%; border-collapse: collapse;">
@@ -65,7 +61,7 @@
     <td>Canva, Figma,, HTML Tables, Badges</td>
   </tr>
 </table>
-**🌱 Learning Journey **
+
 <h2 align="center" style="font-size: 28px; background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent; font-weight: bold; text-shadow: 1px 1px 2px #00000033;">
   🌱 Learning Journey
 </h2>
@@ -86,7 +82,6 @@
   </a>
 </p>
 
-## ✨ Features & Highlights
 <h2 align="center" style="font-size: 28px; background: linear-gradient(to right, #22d3ee, #6366f1); -webkit-background-clip: text; color: transparent; font-weight: bold; text-shadow: 1px 1px 2px #00000033;">
   ✨ Features & Highlights
 </h2>
@@ -102,7 +97,6 @@
 </ul>
 
 ---
-## 🚀 Featured Projects
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -134,8 +128,6 @@
 
 </div>
 
-## 📫 Contact Me
-
 <h2>📬 Contact Me</h2>
 <p>
   <a href="mailto:pratiktech28@gmail.com" style="text-decoration:none;">
@@ -160,8 +152,6 @@
 
 ---
 
-## 🖼️ GitHub Stats
-
 <h2>📊 GitHub Stats & Activity</h2>
 
 <div align="center">
@@ -177,7 +167,6 @@
 </div>
 ---
 
-## 🧭 Let's Collaborate!
 
 > If you're into AI agents, creative coding, or social impact tech — let's build something amazing together 💡
 > <h2>🤝 Let's Collaborate</h2>
@@ -193,9 +182,9 @@
     <img src="https://img.shields.io/badge/Let's%20Connect-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
- 🚀 **Final Bytes**
+
 <h2 align="center" style="font-size: 24px; background: linear-gradient(to right, #10b981, #3b82f6); -webkit-background-clip: text; color: transparent; font-weight: bold;">
-  🚀 Wrapping Up
+  🚀 Final bytes
 </h2>
 
 <p align="center" style="font-size: 16px; line-height: 1.8; color: #e5e7eb; background-color: #1f2937; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
