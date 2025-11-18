@@ -120,7 +120,7 @@
   <br>
 
   <p>
-    <strong>Calculator-py</strong><br>
+    <strong>password-gen.py</strong><br>
     <a href="https://github.com/pratiktech28/password-generator.py.git" target="_blank">
       github.com/pratiktech28/password-generator.py
     </a><br>
