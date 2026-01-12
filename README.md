@@ -110,6 +110,14 @@
     Smart agent that analyzes patient data and suggests treatments using ML models.
   </p>
   <br>
+   <p>
+    <strong>🧠 Bike_drivind_3d~</strong><br>
+    <a href="https://pratiktech28.github.io/bike_driving-_3d/" target="_blank">
+      github.com/pratiktech28/Bike_driving_3d
+    </a><br>
+    Smart agent that analyzes patient data and suggests treatments using ML models.
+  </p>
+  <br>
 
   <p>
     <strong>📊 Faulty calculator in -js</strong><br>
