@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Hi, I'm Prateek! A Devpost Global Generalist 🏆 and AI Tech Enthusiast. Currently building innovative solutions]</h1>
+<h1 align="center">Hi 👋, I'm  Prateek! A Devpost Global Generalist 🏆 and AI Tech Enthusiast. Currently building innovative solutions</h1>
 <h3 align="center">🚀 AI/ML Enthusiast | 🤖 Agent Builder | 🎯 Passionate about building real world solutions </h3>
 
 ---
