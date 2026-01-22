@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>Languages</td>
-    <td>Python 🐍, HTML 🧾, CSS 🎨</td>
+    <td>Python 🐍, HTML 🧾, CSS 🎨 , JS 🧠 , C++ </td>
   </tr>
   <tr>
     <td>Web & Backend</td>
