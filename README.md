@@ -8,7 +8,7 @@
 <p align="justify" style="font-size: 16px; line-height: 1.6;">
 I'm an enthusiastic AI/ML developer who loves turning data into intelligent solutions. With a strong foundation in Python, machine learning frameworks like TensorFlow and PyTorch, and hands-on experience in web technologies like HTML, CSS, and Flask — I build smart systems that solve real-world problems in healthcare, education, and sustainability. I enjoy crafting modular agent architectures, visualizing ML workflows, and deploying interactive dashboards that make insights accessible. My projects reflect a blend of creativity, clarity, and impact — backed by clean documentation, emoji-coded folders, and recruiter-friendly READMEs. Always curious, always building — let's shape the future with code 🤖✨</h3>
 
-- 🔭 I’m currently working on [open source contribute](https://github.com/pratiktech28/keploy.git)
+- 🔭 I’m currently working on [open source contributer](https://github.com/pratiktech28/keploy.git)
 
 - 🌱 I’m currently learning **I'm currently exploring Web Development to complement my AI/ML skills — learning how to build responsive, intelligent, and user-friendly web apps. From mastering HTML, CSS, and JavaScript to integrating backend logic with Flask and FastAPI, I'm focused on creating seamless experiences powered by smart models ,Go , Docker , python and machine learning , Spanner .**
 
@@ -29,7 +29,7 @@ I'm an enthusiastic AI/ML developer who loves turning data into intelligent solu
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ipratik_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ipratik_sharma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/prateeksharma2807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/prateeksharma2807" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prateeksharma2807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/prateeksharma2807" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/32364944/pratik-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/32364944/pratik-sharma" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/pratiktech28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/pratiktech28" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/pratiktech28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pratiktech28" height="30" width="40" /></a>
