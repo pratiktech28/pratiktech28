@@ -10,10 +10,8 @@ I'm an enthusiastic AI/ML developer who loves turning data into intelligent solu
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6feb5662-071f-4eee-bc69-f384192024e0
+</p><img width="1090" height="608" alt="Screenshot 2026-02-14 193503" src="https://github.com/user-attachments/assets/ef6b2bb8-5290-475c-99ef-bf18d4acc658" />
 
-" alt="Pratik's Portfolio Banner" width="100%">
-</p>
 
 
 - 🔭 I’m currently working on [open source contributer](https://github.com/pratiktech28/keploy.git)
