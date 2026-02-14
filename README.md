@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Prateek sharma</h1>
+<h1 align="center">Hi 👋, I'm  Prateek! A Devpost Global Generalist 🏆 and AI Tech Enthusiast. Currently building innovative solutions</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | 🤖 Agent Builder | 🎯 Passionate about building real world solutions </h3>
+
+
 <h3 align="center">I'm an enthusiastic AI/ML developer who loves turning data into intelligent solutions. With a strong foundation in Python, machine learning frameworks like TensorFlow and PyTorch, and hands-on experience in web technologies like HTML, CSS, and Flask — I build smart systems that solve real-world problems in healthcare, education, and sustainability. I enjoy crafting modular agent architectures, visualizing ML workflows, and deploying interactive dashboards that make insights accessible. My projects reflect a blend of creativity, clarity, and impact — backed by clean documentation, emoji-coded folders, and recruiter-friendly READMEs. Always curious, always building — let's shape the future with code 🤖✨</h3>
 
 - 🔭 I’m currently working on [open source contribute](https://github.com/pratiktech28/keploy.git)
