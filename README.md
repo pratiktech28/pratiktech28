@@ -8,6 +8,14 @@
 <p align="justify" style="font-size: 16px; line-height: 1.6;">
 I'm an enthusiastic AI/ML developer who loves turning data into intelligent solutions. With a strong foundation in Python, machine learning frameworks like TensorFlow and PyTorch, and hands-on experience in web technologies like HTML, CSS, and Flask — I build smart systems that solve real-world problems in healthcare, education, and sustainability. I enjoy crafting modular agent architectures, visualizing ML workflows, and deploying interactive dashboards that make insights accessible. My projects reflect a blend of creativity, clarity, and impact — backed by clean documentation, emoji-coded folders, and recruiter-friendly READMEs. Always curious, always building — let's shape the future with code 🤖✨</h3>
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6feb5662-071f-4eee-bc69-f384192024e0
+
+" alt="Pratik's Portfolio Banner" width="100%">
+</p>
+
+
 - 🔭 I’m currently working on [open source contributer](https://github.com/pratiktech28/keploy.git)
 
 - 🌱 I’m currently learning **I'm currently exploring Web Development to complement my AI/ML skills — learning how to build responsive, intelligent, and user-friendly web apps. From mastering HTML, CSS, and JavaScript to integrating backend logic with Flask and FastAPI, I'm focused on creating seamless experiences powered by smart models ,Go , Docker , python and machine learning , Spanner .**
