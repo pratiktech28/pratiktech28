@@ -106,7 +106,7 @@ I'm an enthusiastic AI/ML developer who loves turning data into intelligent solu
 
 I'm always open to discussing **AI Infrastructure**, **Golang**, or any interesting open-source project. Feel free to reach out!
 
-* **📧 𝔼𝕞𝕒𝕚𝕝:** (mailto:pratiktech28@gmail.com)
+* **📧 𝔼𝕞𝕒𝕚𝕝:** pratiktech28@gmail.com
 * **💼 𝕃𝕚𝕟𝕜𝕖𝕕𝕀𝕟:** https://linkedin.com/in/prateeksharma2807
 * **📄 ℙ𝕣𝕠𝕗𝕖𝕤𝕤𝕚𝕠𝕟𝕒𝕝 ℝ𝕖𝕤𝕦𝕞𝕖:** [**Download My Resume PDF**][Black White Professional Minimalist Resume.pdf](https://github.com/user-attachments/files/25621291/Black.White.Professional.Minimalist.Resume.pdf)
 
