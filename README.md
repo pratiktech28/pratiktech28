@@ -94,7 +94,7 @@ I'm an enthusiastic AI/ML developer who loves turning data into intelligent solu
 </div>
 
 <div align="center">
-  <h1> 🌌 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓜𝔂 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓦𝓸𝓻𝓵𝓭 🌌 </h1>
+  <h1> 🌌 LET'S CONNECT US 🌌 </h1>
   <p align="center">
     <b>𝔸𝕀 𝕀𝕟𝕗𝕣𝕒𝕤𝕥𝕣𝕦𝕔𝕥𝕦𝕣𝕖 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣 | 𝔾𝕊𝕠ℂ ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕠𝕣 | 𝔻𝕖𝕖𝕡 𝕋𝕙𝕚𝕟𝕜𝕖𝕣</b>
   </p>
@@ -108,7 +108,8 @@ I'm always open to discussing **AI Infrastructure**, **Golang**, or any interest
 
 * **📧 𝔼𝕞𝕒𝕚𝕝:** [tera.email@example.com](mailto:pratiktech28@gmail.com)
 * **💼 𝕃𝕚𝕟𝕜𝕖𝕕𝕀𝕟:** [linkedin.com/in/tera-username](https://linkedin.com/in/prateeksharma2807)
-* **📄 ℙ𝕣𝕠𝕗𝕖𝕤𝕤𝕚𝕠𝕟𝕒𝕝 ℝ𝕖𝕤𝕦𝕞𝕖:** [**Download My Resume PDF**](./Resume_AI_Engineer.pdf) 🚀
+* **📄 ℙ𝕣𝕠𝕗𝕖𝕤𝕤𝕚𝕠𝕟𝕒𝕝 ℝ𝕖𝕤𝕦𝕞𝕖:** [**Download My Resume PDF**][Black White Professional Minimalist Resume.pdf](https://github.com/user-attachments/files/25621291/Black.White.Professional.Minimalist.Resume.pdf)
+
 
 ---
 
