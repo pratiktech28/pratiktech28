@@ -38,7 +38,7 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 <table border="0">
   <tr>
     <td width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Gsoc_logo.svg" width="100" alt="GSoC Logo" />
+      <img src="https://github.com/user-attachments/assets/04994b21-8a7a-4c07-af6b-2e9d41166eba" width="100" alt="GSoC Logo" />
     </td>
     <td>
       <strong>Google Summer of Code 2026 | gprMax</strong><br />
@@ -52,9 +52,6 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 <img width="600" height="73" alt="download" src="https://github.com/user-attachments/assets/35aad6e9-70df-4f4a-96f0-0a31ba2dc7cf" />
 
 ---
-
-
-
 
 **🛠️ Technical Arsenal & Core Competencies**
   <table>
