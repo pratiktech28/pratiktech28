@@ -34,10 +34,14 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 
 **🎯 Key Core Milestones**
 Domain,Achievement,Tech Stack
-GSoC Architecture,Project Trident: Modular CI/CD for gprMax,"GitHub Actions, Docker, Linux"
-Distributed Systems,Data Aggregator: K8s PV/PVC multi-pod sync,"Kubernetes, YAML, Bash"
-AIML & Data,Spatial Fidelity: Automated Physics-Aware Testing,"Python (NumPy/Matplotlib), RegEx"
-AI Automation,Vocal-Compute: Voice-First LLM Integration,"ElevenLabs, Gemini API, Node.js"
+
+**GSoC Architecture,Project Trident**: Modular CI/CD for gprMax,"GitHub Actions, Docker, Linux"
+
+**Distributed Systems,Data Aggregator**: K8s PV/PVC multi-pod sync,"Kubernetes, YAML, Bash"
+
+**AIML & Data,Spatial Fidelity**: Automated Physics-Aware Testing,"Python (NumPy/Matplotlib), RegEx"
+
+**AI Automation,Vocal-Compute**: Voice-First LLM Integration,"ElevenLabs, Gemini API, Node.js"
 
 
 <h3 align="left">Connect with me:</h3>
