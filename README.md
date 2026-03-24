@@ -58,7 +58,7 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 
 
 <p align="center">
-  <strong>Engineering a Robust Validation Engine for gprMax @ GSoC 2026</strong>
+  <strong>🚀 Engineering a Robust <a href="https://github.com/pratiktech28/gprmax_integration_test">Validation Engine</a> for gprMax @ GSoC 2026</strong>
 </p>
 ---
 
