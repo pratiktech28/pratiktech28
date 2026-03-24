@@ -54,7 +54,7 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 ---
 
 <div align="center">
-  ![download](https://github.com/user-attachments/assets/2481c014-7281-4a5b-846d-ac2c235a2719)
+  ![download](https://github.com/user-attachments/assets/7f14817f-d60b-4033-b102-3e60db30a30e)
 
 <p align="center">
   <strong>Engineering a Robust Validation Engine for gprMax @ GSoC 2026</strong>
