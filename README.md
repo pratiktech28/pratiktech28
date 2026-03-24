@@ -53,6 +53,17 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gprMax/gprMax/master/docs/images/gprMax_logo.png" height="50" alt="gprMax Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Gsoc_logo.svg" height="50" alt="GSoC Logo" />
+</div>
+
+<p align="center">
+  <strong>Engineering a Robust Validation Engine for gprMax @ GSoC 2026</strong>
+</p>
+---
+
 **🛠️ Technical Arsenal & Core Competencies**
   <table>
 <thead>
