@@ -54,7 +54,7 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6d754249-f22b-4f53-a6ee-02621ad95f10" height="50" alt="gprMax Logo" />
+  <img src="https://github.com/user-attachments/assets/6d754249-f22b-4f53-a6ee-02621ad95f10" height="200" width="200" alt="gprMax Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
