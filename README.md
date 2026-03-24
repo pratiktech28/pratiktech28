@@ -33,6 +33,29 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 - ⚡ Fun fact **I spend more time debugging Keploy PRs than sleeping! 🤖**
 
 ---
+## 🏆 Open Source & Recognitions
+
+<table border="0">
+  <tr>
+    <td width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Gsoc_logo.svg" width="100" alt="GSoC Logo" />
+    </td>
+    <td>
+      <strong>Google Summer of Code 2026 | gprMax</strong><br />
+      <em>Project: CI/CD + Physics - Automated Validation & Scaling Infrastructure</em><br />
+      Currently architecting automated geometry validation gates and regression testing pipelines for the global EM simulation community.
+    </td>
+  </tr>
+</table>
+---
+
+<img width="600" height="73" alt="download" src="https://github.com/user-attachments/assets/35aad6e9-70df-4f4a-96f0-0a31ba2dc7cf" />
+
+---
+
+
+
+
 **🛠️ Technical Arsenal & Core Competencies**
   <table>
 <thead>
