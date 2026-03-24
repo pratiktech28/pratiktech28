@@ -32,15 +32,58 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 
 - ⚡ Fun fact **I spend more time debugging Keploy PRs than sleeping! 🤖**
 
+---
+**🛠️ Technical Arsenal & Core Competencies**
+  <table>
+<thead>
+<tr>
+<th align="left">Domain</th>
+<th align="left">Tools & Technologies</th>
+<th align="left">Specialization</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>🛰️ GSoC & DevOps</b></td>
+<td><code>Docker</code>, <code>Kubernetes (K8s)</code>, <code>GitHub Actions</code>, <code>Linux (Ubuntu)</code></td>
+<td>Automated CI/CD Pipelines & Scalable Infrastructure</td>
+</tr>
+<tr>
+<td><b>🏗️ Physics & Simulation</b></td>
+<td><code>gprMax</code>, <code>HDF5 Data</code>, <code>Numerical Accuracy Validation</code></td>
+<td>Deterministic Modeling & High-Fidelity Simulations</td>
+</tr>
+<tr>
+<td><b>🤖 AI & Machine Learning</b></td>
+<td><code>Python (NumPy/Pandas)</code>, <code>Agentic LLMs</code>, <code>LangChain</code>, <code>ElevenLabs</code></td>
+<td>Autonomous Workflows & Physics-Aware AI Gates</td>
+</tr>
+<tr>
+<td><b>💻 Full-Stack Dev</b></td>
+<td><code>Node.js</code>, <code>React.js</code>, <code>Express</code>, <code>MongoDB</code>, <code>HTML5/CSS3</code></td>
+<td>Scalable Web Architectures & Visual Data Dashboards</td>
+</tr>
+<tr>
+<td><b>📜 Core Languages</b></td>
+<td><code>C++</code>, <code>Python</code>, <code>JavaScript (ES6+)</code>, <code>Bash Scripting</code></td>
+<td>Algorithm Design & System-Level Scripting</td>
+</tr>
+<tr>
+<td><b>💾 Cloud & Storage</b></td>
+<td><code>Persistent Volumes (PV/PVC)</code>, <code>GitHub Artifacts</code>, <code>AWS</code></td>
+<td>Distributed Data Persistence & Cloud-Native Storage</td>
+</tr>
+</tbody>
+</table>
+
+---
+
 **🎯 Key Core Milestones**
 Domain,Achievement,Tech Stack
 
 **GSoC Architecture,Project Trident**: Modular CI/CD for gprMax,"GitHub Actions, Docker, Linux"
-
 **Distributed Systems,Data Aggregator**: K8s PV/PVC multi-pod sync,"Kubernetes, YAML, Bash"
-
 **AIML & Data,Spatial Fidelity**: Automated Physics-Aware Testing,"Python (NumPy/Matplotlib), RegEx"
-
 **AI Automation,Vocal-Compute**: Voice-First LLM Integration,"ElevenLabs, Gemini API, Node.js"
 
 
