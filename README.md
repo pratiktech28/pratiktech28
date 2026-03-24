@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm  Prateek! A Devpost Global Generalist 🏆 and AI Tech Enthusiast. Currently building innovative solutions</h1>
+<h1 align="center">Hi 👋, I'm Prateek! 🏗️ Systems Architect & AI Engineering Pathbreaker</h1>
 <h3 align="center">🚀 AI/ML Enthusiast | 🤖 Agent Builder | 🎯 Passionate about building real world solutions </h3>
 
 
 ---
-<h2>👨‍💻 About Me</h2>
+<h2>👨‍💻 Overview </h2>
 
 <p align="justify" style="font-size: 16px; line-height: 1.6;">
-I'm an enthusiastic AI/ML developer who loves turning data into intelligent solutions. With a strong foundation in Python, machine learning frameworks like TensorFlow and PyTorch, and hands-on experience in web technologies like HTML, CSS, and Flask — I build smart systems that solve real-world problems in healthcare, education, and sustainability. I enjoy crafting modular agent architectures, visualizing ML workflows, and deploying interactive dashboards that make insights accessible. My projects reflect a blend of creativity, clarity, and impact — backed by clean documentation, emoji-coded folders, and recruiter-friendly READMEs. Always curious, always building — let's shape the future with code 🤖✨</h3>
+I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer, my focus is on the convergence of Agentic AI and High-Performance Computing (HPC). I specialize in architecting intelligent, automated environments for complex physical systems. Currently, I am pioneering Project Trident, a modular CI/CD framework for the gprMax (GSoC '26) ecosystem. My work transcends traditional automation by integrating AI-driven validation gates that ensure 100% geometric and numerical integrity before simulation deployment.By leveraging Kubernetes (K8s) orchestration and Persistent Volume (PV/PVC) aggregators, I have engineered a distributed data pipeline that unifies high-fidelity simulation outputs from parallelized clusters. My approach utilizes Machine Learning principles to optimize resource allocation and 'Shift-Left' error detection, achieving sub-millimeter coordinate precision ($\pm 0.001$m) in the spatial domain. Whether I am fine-tuning LLM-based agentic workflows or scaling Physics-aware Docker containers, my goal is to transform manual, fragmented research processes into autonomous, production-grade systems that define the future of open-source engineering.</h3>
 
 
 <p align="center">
@@ -31,6 +31,14 @@ I'm an enthusiastic AI/ML developer who loves turning data into intelligent solu
 - 📫 How to reach me **pratiktech28@gmail.com**
 
 - ⚡ Fun fact **I spend more time debugging Keploy PRs than sleeping! 🤖**
+
+**🎯 Key Core Milestones**
+Domain,Achievement,Tech Stack
+GSoC Architecture,Project Trident: Modular CI/CD for gprMax,"GitHub Actions, Docker, Linux"
+Distributed Systems,Data Aggregator: K8s PV/PVC multi-pod sync,"Kubernetes, YAML, Bash"
+AIML & Data,Spatial Fidelity: Automated Physics-Aware Testing,"Python (NumPy/Matplotlib), RegEx"
+AI Automation,Vocal-Compute: Voice-First LLM Integration,"ElevenLabs, Gemini API, Node.js"
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
