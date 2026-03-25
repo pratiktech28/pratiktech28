@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek! 🏗️ Systems Architect & AI Engineering Pathbreaker</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | 🤖 Agent Builder | 🎯 Passionate about building real world solutions </h3>
+<h3 align="center">🚀 AI/ML Enthusiast | 🤖 Infrastructure & Devops | 🎯 Passionate about building real world solutions </h3>
 
 
 ---
