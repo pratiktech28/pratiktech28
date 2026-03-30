@@ -15,8 +15,7 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 ---
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=37BCF8&background=060F1354&center=true&vCenter=true&multiline=true&width=600&height=70&lines=I'm+a+GSOC+Contributor+%26+System+Architect+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39C1FFFB&background=181818E4&center=true&vCenter=true&width=600&height=70&lines=I'm+a+GSOC+Contributor+%26+System+Architect)](https://git.io/typing-svg)
 
 
 ---
