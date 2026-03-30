@@ -12,6 +12,15 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 <p align="center">
 </p><img width="1090" height="608" alt="Screenshot 2026-02-14 193503" src="https://github.com/user-attachments/assets/ef6b2bb8-5290-475c-99ef-bf18d4acc658" />
 
+---
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=37BCF8&background=060F1354&center=true&vCenter=true&multiline=true&width=600&height=70&lines=I'm+a+GSOC+Contributor+%26+System+Architect+)](https://git.io/typing-svg)
+
+
+
+---
+
 
 
 - 🔭 I’m currently working on [open source contributer](https://github.com/pratiktech28/keploy.git)
