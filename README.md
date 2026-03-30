@@ -3,6 +3,10 @@
 
 
 ---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39C1FFFB&background=181818E4&center=true&vCenter=true&width=600&height=70&lines=I'm+a+GSOC+Contributor+%26+System+Architect)](https://git.io/typing-svg)
+
+---
 <h2>👨‍💻 Overview </h2>
 
 <p align="justify" style="font-size: 16px; line-height: 1.6;">
@@ -13,14 +17,6 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 </p><img width="1090" height="608" alt="Screenshot 2026-02-14 193503" src="https://github.com/user-attachments/assets/ef6b2bb8-5290-475c-99ef-bf18d4acc658" />
 
 ---
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39C1FFFB&background=181818E4&center=true&vCenter=true&width=600&height=70&lines=I'm+a+GSOC+Contributor+%26+System+Architect)](https://git.io/typing-svg)
-
-
----
-
-
 
 - 🔭 I’m currently working on [open source contributer](https://github.com/pratiktech28/keploy.git)
 
