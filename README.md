@@ -246,4 +246,37 @@ I'm always open to discussing **AI Infrastructure**, **Golang**, or any interest
   Let's connect, collaborate, and code something awesome together! 🤝💡
 </p>
 
+---
+
+<hr>
+
+<h3>🌐 Connect with Pratik (pratiktech28) & Explore GSoC '26 gprMax Ecosystem</h3>
+
+<p align="left">
+  <a href="https://github.com/pratiktech28/gsoc_worke" target="_blank"><b>🚀 GSoC '26 Project Hub (gprMax)</b></a> | 
+  <a href="https://github.com/pratiktech28/gprmax_Containerized" target="_blank"><b>🐋 Containerized gprMax Infrastructure</b></a> | 
+  <a href="https://www.linkedin.com/in/prateeksharma2807" target="_blank"><b>👔 LinkedIn | Professional Network</b></a> | 
+  <a href="https://github.com/pratiktech28" target="_blank"><b>💻 GitHub Main Profile</b></a> | 
+  <a href="https://v0-about-me-section-five.vercel.app/" target="_blank"><b>🏗️ Portfolio Web Architect</b></a>
+</p>
+
+<p align="left">
+  <a href="http://www.gprmax.com" target="_blank"><b>🔱 Official gprMax Website</b></a> | 
+  <a href="https://github.com/gprMax/gprMax.git" target="_blank"><b>🛡️ gprMax Core Source</b></a> | 
+  <a href="https://x.com/ipratik_sharma" target="_blank"><b>🐦 X (Twitter) Updates</b></a> | 
+  <a href="https://linktr.ee/pratiktech28" target="_blank"><b>🔗 Linktree Identity</b></a> | 
+  <a href="https://www.kaggle.com/pratiktech28" target="_blank"><b>📊 Kaggle Data Science</b></a>
+</p>
+
+<h4>🛠️ Specialized Physics-Based CI/CD Tooling</h4>
+<p align="left">
+  <a href="https://github.com/pratiktech28/gprmax_integration_test" target="_blank"><b>⚙️ Integration Testing</b></a> | 
+  <a href="https://github.com/pratiktech28/gprmax_Ascan" target="_blank"><b>📡 A-Scan Processing</b></a> | 
+  <a href="https://github.com/pratiktech28/gprmax_geometry_check" target="_blank"><b>📐 Geometry Verification</b></a> | 
+  <a href="https://github.com/pratiktech28/gprmax_material_property_check" target="_blank"><b>🧪 Material Validation</b></a>
+</p>
+
+<hr>
+
+---
 
