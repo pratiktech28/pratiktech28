@@ -248,60 +248,43 @@ I'm always open to discussing **AI Infrastructure**, **Golang**, or any interest
 
 ---
 
-<hr>
-
 <div align="center">
-  <h2>🌐 Digital Ecosystem & Professional Directory</h2>
+  <h1>🌐 Global Tech Ecosystem & Professional Directory</h1>
   <p><i>Building High-Performance Physics-based CI/CD & Cloud-Native Simulation Infrastructure</i></p>
+
+  <a href="https://www.linkedin.com/in/prateeksharma2807"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/pratiktech28"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/ipratik_sharma"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/pratiktech28"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </div>
 
 <br />
 
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <b>🚀 Core GSoC '26 & Research</b><br />
-      • <a href="https://github.com/pratiktech28/gsoc_worke">GSoC '26 Project Hub</a><br />
-      • <a href="https://github.com/pratiktech28/gprmax_Containerized">Containerized gprMax (K8s/Docker)</a><br />
-      • <a href="http://www.gprmax.com">Official gprMax Documentation</a><br />
-      • <a href="https://github.com/gprMax/gprMax.git">gprMax Core Source Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>👔 Professional Footprint</b><br />
-      • <a href="https://www.linkedin.com/in/prateeksharma2807">LinkedIn | Professional Network</a><br />
-      • <a href="https://v0-about-me-section-five.vercel.app/">Interactive Web Portfolio</a><br />
-      • <a href="https://x.com/ipratik_sharma">X (Twitter) | Technical Updates</a><br />
-      • <a href="https://linktr.ee/pratiktech28">Unified Linktree Identity</a>
-    </td>
-  </tr>
-</table>
+### 🚀 Core GSoC '26 & Research (gprMax Ecosystem)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🔱 **[Project Hub](https://github.com/pratiktech28/gsoc_worke)** | Centralized GSoC '26 automation logic. | `Python` `GitHub Actions` |
+| 🐋 **[Containerized gprMax](https://github.com/pratiktech28/gprmax_Containerized)** | Scalable K8s/Docker simulation pods. | `Kubernetes` `Docker` |
+| 🛡️ **[gprMax Official](http://www.gprmax.com)** | Main research documentation & source. | `C++` `OpenMP` |
 
 <br />
 
-<b>🛠️ Specialized Physics-Based CI/CD Tooling</b><br />
-<i>Automated validation modules for electromagnetic simulation environments:</i>
-<p>
-  <a href="https://github.com/pratiktech28/gprmax_integration_test">Integration Testing</a> | 
-  <a href="https://github.com/pratiktech28/gprmax_Ascan">A-Scan Signal Analysis</a> | 
-  <a href="https://github.com/pratiktech28/gprmax_geometry_check">Geometry Verification</a> | 
-  <a href="https://github.com/pratiktech28/gprmax_material_property_check">Material Property Validation</a>
-</p>
+### 🛠️ Specialized Physics-Based CI/CD Tooling
+> *Deep-dive into technical validation of high-frequency electromagnetic environments.*
+
+- ⚙️ **[Integration Testing](https://github.com/pratiktech28/gprmax_integration_test)**: Automated E2E flows for simulation accuracy.
+- 📡 **[A-Scan Processing](https://github.com/pratiktech28/gprmax_Ascan)**: Signal validation logic & waveform analysis.
+- 📐 **[Geometry Check](https://github.com/pratiktech28/gprmax_geometry_check)**: Automated structural integrity verification.
+- 🧪 **[Material Validation](https://github.com/pratiktech28/gprmax_material_property_check)**: Real-time physics-property verification.
 
 <br />
 
-<p align="right">
-  <a href="https://www.kaggle.com/pratiktech28">Kaggle Data Science Profile</a> • 
-  <a href="https://github.com/pratiktech28">Main Command Center</a>
+### 👔 Digital Identity & Portfolio
+- 🌐 **[Interactive Portfolio](https://v0-about-me-section-five.vercel.app/)**: Full showcase of cloud & web architecture.
+- 🔗 **[All-in-One Linktree](https://linktr.ee/pratiktech28)**: Unified access to all social & tech handles.
+
+---
+<p align="center">
+  <b>"Your work is the only signature that never fades."</b><br />
+  <i>Ziddi Engineering since 4 AM.</i> 🛡️
 </p>
-
-<div align="center">
-  <sub><i>"Your code is the only signature that never fades." </i> 🛡️</sub>
-</div>
-
-<hr>
-<p align="right">
-  <a href="https://www.kaggle.com/pratiktech28"><b>📊 Kaggle Data Science Profile</b></a> | 
-  <a href="https://github.com/pratiktech28"><b>💻 Main GitHub Command Center</b></a>
-</p>
-
-<hr>
