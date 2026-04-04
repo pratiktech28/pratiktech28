@@ -250,42 +250,55 @@ I'm always open to discussing **AI Infrastructure**, **Golang**, or any interest
 
 <hr>
 
-<h2 align="center">🌐 Global Tech Ecosystem & Professional Directory</h2>
-<p align="center"><i>Building the future of Physics-based CI/CD and Containerized Simulation Infrastructure.</i></p>
+<div align="center">
+  <h2>🌐 Digital Ecosystem & Professional Directory</h2>
+  <p><i>Building High-Performance Physics-based CI/CD & Cloud-Native Simulation Infrastructure</i></p>
+</div>
 
-<table width="100%">
+<br />
+
+<table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Core GSoC '26 & Research</h3>
-      <ul>
-        <li><a href="https://github.com/pratiktech28/gsoc_worke"><b>GSoC '26 Project Hub</b></a><br><i>Central repository for gprMax automation & testing.</i></li>
-        <li><a href="https://github.com/pratiktech28/gprmax_Containerized"><b>Containerized gprMax (K8s)</b></a><br><i>Scalable Docker & Kubernetes infrastructure for simulations.</i></li>
-        <li><a href="http://www.gprmax.com"><b>gprMax Official</b></a> | <a href="https://github.com/gprMax/gprMax.git"><b>Source Code</b></a><br><i>Direct links to the official research ecosystem.</i></li>
-      </ul>
+      <b>🚀 Core GSoC '26 & Research</b><br />
+      • <a href="https://github.com/pratiktech28/gsoc_worke">GSoC '26 Project Hub</a><br />
+      • <a href="https://github.com/pratiktech28/gprmax_Containerized">Containerized gprMax (K8s/Docker)</a><br />
+      • <a href="http://www.gprmax.com">Official gprMax Documentation</a><br />
+      • <a href="https://github.com/gprMax/gprMax.git">gprMax Core Source Code</a>
     </td>
     <td width="50%" valign="top">
-      <h3>👔 Professional Identity</h3>
-      <ul>
-        <li><a href="https://www.linkedin.com/in/prateeksharma2807"><b>LinkedIn Profile</b></a><br><i>1.7K+ Professional Network & Keploy Experience.</i></li>
-        <li><a href="https://v0-about-me-section-five.vercel.app/"><b>Interactive Portfolio</b></a><br><i>Architectural showcase of my web & cloud projects.</i></li>
-        <li><a href="https://x.com/ipratik_sharma"><b>X (Twitter)</b></a> | <a href="https://linktr.ee/pratiktech28"><b>Digital Linktree</b></a><br><i>Real-time updates & social connectivity.</i></li>
-      </ul>
+      <b>👔 Professional Footprint</b><br />
+      • <a href="https://www.linkedin.com/in/prateeksharma2807">LinkedIn | Professional Network</a><br />
+      • <a href="https://v0-about-me-section-five.vercel.app/">Interactive Web Portfolio</a><br />
+      • <a href="https://x.com/ipratik_sharma">X (Twitter) | Technical Updates</a><br />
+      • <a href="https://linktr.ee/pratiktech28">Unified Linktree Identity</a>
     </td>
   </tr>
 </table>
 
-<h3>🛠️ Specialized Physics-Based CI/CD Tooling</h3>
-<p><i>Deep-dive into the technical validation of gprMax environments:</i></p>
+<br />
 
-<table>
-  <tr>
-    <td><a href="https://github.com/pratiktech28/gprmax_integration_test"><b>⚙️ Integration Testing</b></a><br>Automated E2E flows.</td>
-    <td><a href="https://github.com/pratiktech28/gprmax_Ascan"><b>📡 A-Scan Analysis</b></a><br>Signal validation logic.</td>
-    <td><a href="https://github.com/pratiktech28/gprmax_geometry_check"><b>📐 Geometry Check</b></a><br>Structural integrity verification.</td>
-    <td><a href="https://github.com/pratiktech28/gprmax_material_property_check"><b>🧪 Material Validation</b></a><br>Physics-property verification.</td>
-  </tr>
-</table>
+<b>🛠️ Specialized Physics-Based CI/CD Tooling</b><br />
+<i>Automated validation modules for electromagnetic simulation environments:</i>
+<p>
+  <a href="https://github.com/pratiktech28/gprmax_integration_test">Integration Testing</a> | 
+  <a href="https://github.com/pratiktech28/gprmax_Ascan">A-Scan Signal Analysis</a> | 
+  <a href="https://github.com/pratiktech28/gprmax_geometry_check">Geometry Verification</a> | 
+  <a href="https://github.com/pratiktech28/gprmax_material_property_check">Material Property Validation</a>
+</p>
 
+<br />
+
+<p align="right">
+  <a href="https://www.kaggle.com/pratiktech28">Kaggle Data Science Profile</a> • 
+  <a href="https://github.com/pratiktech28">Main Command Center</a>
+</p>
+
+<div align="center">
+  <sub><i>"Your code is the only signature that never fades." </i> 🛡️</sub>
+</div>
+
+<hr>
 <p align="right">
   <a href="https://www.kaggle.com/pratiktech28"><b>📊 Kaggle Data Science Profile</b></a> | 
   <a href="https://github.com/pratiktech28"><b>💻 Main GitHub Command Center</b></a>
