@@ -4,7 +4,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39C1FFFB&background=0B0B0B&center=true&vCenter=true&width=600&height=70&lines=I'm+a+GSOC+Contributor+%26+System+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=1DCDF6&background=060606F6&center=true&vCenter=true&width=800&height=90&lines=GSoC+%E2%80%9926+Contributor+%40gprMax)](https://git.io/typing-svg)
 
 ---
 <h2>👨‍💻 Overview </h2>
