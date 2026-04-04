@@ -288,3 +288,9 @@ I'm always open to discussing **AI Infrastructure**, **Golang**, or any interest
   <b>"Your work is the only signature that never fades."</b><br />
   <i>Ziddi Engineering since 4 AM.</i> 🛡️
 </p>
+---
+
+
+# 🏗️ gprmax_Containerized: The Trident Pipeline
+> **Architecting Automated CI/CD & Physics-Based Regression for gprMax (GSoC 2026)**
+
