@@ -1,6 +1,6 @@
 "use client"
 
-import { Code2, Monitor, Server, Database, Brain, Wrench, CheckCircle2 } from "lucide-react"
+import { Code2, Monitor, Server, Database, Brain, Wrench, CheckCircle2, Github } from "lucide-react"
 import { motion } from "framer-motion"
 
 const skillCategories = [
@@ -290,6 +290,24 @@ export function Skills() {
                 </div>
               </motion.div>
             </div>
+
+            <motion.div
+              className="flex justify-center mt-8 md:mt-10"
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6, delay: 0.4 }}
+            >
+              <a
+                href="https://github.com/pratiktech28/gprmax_Containerized.git"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-6 md:px-8 py-3 md:py-3.5 bg-primary text-primary-foreground font-semibold rounded-lg hover:bg-primary/90 transition-all hover:shadow-lg hover:shadow-primary/30"
+              >
+                <Github className="w-5 h-5" />
+                View on GitHub
+              </a>
+            </motion.div>
           </motion.div>
         </motion.div>
       </div>
