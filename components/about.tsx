@@ -13,22 +13,22 @@ const highlights = [
   },
   {
     icon: Lightbulb,
-    title: "Innovation Focus",
+    title: "Infrastructure & DevOps",
     description:
-      "Passionate about AI, Machine Learning, and exploring real-world applications through hands-on projects and continuous learning.",
+      "Architecting high-performance infrastructures using Docker and Kubernetes. Engineered distributed data pipelines with PV/PVC storage aggregators for sub-millimeter precision.",
   },
   {
     icon: Users,
-    title: "Tech Community",
+    title: "Open Source Contributor",
     description:
-      "Actively connecting with fellow developers and tech enthusiasts to grow together in the world of technology.",
+      "Active open source developer contributing to gprMax (GSoC '26), Keploy, and GitHub projects. Building resilient automated testing frameworks for complex microservices.",
   },
 ]
 
 const stats = [
-  { value: "4+", label: "Projects", icon: Rocket },
-  { value: "5+", label: "Technologies", icon: Code2 },
-  { value: "2025", label: "Started Coding", icon: Target },
+  { value: "30+", label: "Critical Errors Fixed", icon: Rocket },
+  { value: "3", label: "Open Source Orgs", icon: Code2 },
+  { value: "2026", label: "GSoC Contributor", icon: Target },
 ]
 
 const containerVariants = {
@@ -132,9 +132,9 @@ export function About() {
             </motion.div>
 
             {[
-              "I am Prateek Sharma, a Computer Science student specializing in Artificial Intelligence and Machine Learning. My academic journey focuses on leveraging technology to build innovative solutions that create meaningful impact.",
-              "I'm currently building a strong foundation in Python, C++, Java, and Data Structures & Algorithms. Passionate about technology and coding, I aim to explore real-world applications of AI/ML through hands-on projects.",
-              "I'm actively working on improving my programming skills and building a strong technical profile for future internships and opportunities in the field of AI/ML. Let's connect and grow together!",
+              "I am Prateek Sharma, an Infrastructure & DevOps Engineer focused on the convergence of Computational Physics and DevOps Automation. Currently spearheading Project Trident (gprMax GSoC '26), modernizing ecosystems through automated, scalable CI/CD pipelines.",
+              "I architect high-performance infrastructures using Docker and Kubernetes (K8s). I've successfully engineered distributed data pipelines with PV/PVC storage aggregators and automated geometry validation gates achieving sub-millimeter precision (±0.001m). I don't just write code; I solve core system bottlenecks.",
+              "I'm a firm believer in the power of Open Source and am constantly pushing the boundaries of automated engineering. From resolving 30+ critical production-level errors to developing Agentic AI workflows, my focus is on creating autonomous, production-grade systems that scale.",
             ].map((text, index) => (
               <motion.p
                 key={index}
