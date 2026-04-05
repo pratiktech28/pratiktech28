@@ -82,7 +82,7 @@ export function Hero() {
                 animate={glowAnimation}
                 transition={{ duration: 0.3 }}
               >
-                <img src="/prateek-sharma.jpg" alt="Prateek Sharma" className="w-full h-full object-cover" />
+                <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photoi-4t2rl44xq8FugmwCvAkAJK4lb450eW.jpg" alt="Prateek Sharma" className="w-full h-full object-cover" />
               </motion.div>
 
               <motion.div
