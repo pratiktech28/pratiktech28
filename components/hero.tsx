@@ -179,7 +179,7 @@ export function Hero() {
                   animate={{ opacity: 1 }}
                   transition={{ duration: 0.5, delay: 1.5 }}
                 >
-                  Computer Science Student & AI/ML Enthusiast
+                  Infrastructure & DevOps Engineer | GSoC '26 Contributor @gprMax
                 </motion.span>
               </motion.p>
             </div>
@@ -190,8 +190,7 @@ export function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.6 }}
             >
-              Passionate about building innovative solutions in Artificial Intelligence and Machine Learning. Currently
-              building a strong foundation in Python, C++, Java, and Data Structures & Algorithms.
+              Architecting high-performance infrastructures with Docker and Kubernetes. Leading Project Trident (gprMax GSoC '26) and contributing to open source projects. Specializing in CI/CD pipelines, microservices, and computational physics automation.
             </motion.p>
 
             <motion.div
