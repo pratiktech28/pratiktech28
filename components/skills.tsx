@@ -1,6 +1,6 @@
 "use client"
 
-import { Code2, Monitor, Server, Database, Brain, Wrench } from "lucide-react"
+import { Code2, Monitor, Server, Database, Brain, Wrench, CheckCircle2 } from "lucide-react"
 import { motion } from "framer-motion"
 
 const skillCategories = [
@@ -170,6 +170,127 @@ export function Skills() {
               </div>
             </motion.div>
           ))}
+        </motion.div>
+
+        <motion.div
+          className="mt-16 md:mt-20"
+          initial={{ opacity: 0, y: 30 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, margin: "-100px" }}
+          transition={{ duration: 0.6, delay: 0.2 }}
+        >
+          <div className="text-center mb-10 md:mb-12">
+            <motion.span
+              className="inline-block px-3 py-1 md:px-4 md:py-1.5 bg-secondary text-xs md:text-sm font-medium rounded-full text-foreground mb-3 md:mb-4"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              GSoC'26 Initiative
+            </motion.span>
+            <h3 className="text-2xl sm:text-3xl md:text-4xl font-bold text-foreground">GSoC'26 Proposal Research</h3>
+            <p className="text-base md:text-lg text-muted-foreground mt-3 max-w-2xl mx-auto">The Trident Pipeline: Cloud-Native CI/CD for Physics-Driven Simulation Testing</p>
+            <motion.div
+              className="w-12 md:w-16 h-1 bg-primary mx-auto mt-3 md:mt-4"
+              initial={{ width: 0 }}
+              whileInView={{ width: 64 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.8, delay: 0.3 }}
+            />
+          </div>
+
+          <motion.div
+            className="max-w-4xl mx-auto"
+            variants={containerVariants}
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true, margin: "-50px" }}
+          >
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
+              <motion.div
+                className="p-4 md:p-6 bg-card rounded-xl border border-border hover:border-primary/50 transition-all"
+                variants={cardVariants}
+                whileHover={{ y: -4, scale: 1.02 }}
+              >
+                <div className="flex items-start gap-3">
+                  <CheckCircle2 className="w-5 h-5 text-primary shrink-0 mt-0.5" />
+                  <div>
+                    <h4 className="font-semibold text-foreground mb-1">Cloud-Native Architecture</h4>
+                    <p className="text-sm text-muted-foreground">Engineered Docker multi-stage builds and GitHub Actions for automated physics-driven regression testing with bit-for-bit identical simulation environments globally.</p>
+                  </div>
+                </div>
+              </motion.div>
+
+              <motion.div
+                className="p-4 md:p-6 bg-card rounded-xl border border-border hover:border-primary/50 transition-all"
+                variants={cardVariants}
+                whileHover={{ y: -4, scale: 1.02 }}
+              >
+                <div className="flex items-start gap-3">
+                  <CheckCircle2 className="w-5 h-5 text-primary shrink-0 mt-0.5" />
+                  <div>
+                    <h4 className="font-semibold text-foreground mb-1">NRMSE Validation Framework</h4>
+                    <p className="text-sm text-muted-foreground">Implemented Normalized Root Mean Square Error (NRMSE) based validation to maintain less than 1% error threshold in electromagnetic waveforms across all simulations.</p>
+                  </div>
+                </div>
+              </motion.div>
+
+              <motion.div
+                className="p-4 md:p-6 bg-card rounded-xl border border-border hover:border-primary/50 transition-all"
+                variants={cardVariants}
+                whileHover={{ y: -4, scale: 1.02 }}
+              >
+                <div className="flex items-start gap-3">
+                  <CheckCircle2 className="w-5 h-5 text-primary shrink-0 mt-0.5" />
+                  <div>
+                    <h4 className="font-semibold text-foreground mb-1">Elastic Scaling with HPC</h4>
+                    <p className="text-sm text-muted-foreground">Architected elastic scaling model using Kubernetes (GKE/EKS) for High-Performance Computing workloads with dynamic resource allocation and cost optimization.</p>
+                  </div>
+                </div>
+              </motion.div>
+
+              <motion.div
+                className="p-4 md:p-6 bg-card rounded-xl border border-border hover:border-primary/50 transition-all"
+                variants={cardVariants}
+                whileHover={{ y: -4, scale: 1.02 }}
+              >
+                <div className="flex items-start gap-3">
+                  <CheckCircle2 className="w-5 h-5 text-primary shrink-0 mt-0.5" />
+                  <div>
+                    <h4 className="font-semibold text-foreground mb-1">Persistent Metadata Tracking</h4>
+                    <p className="text-sm text-muted-foreground">Integrated PostgreSQL for comprehensive metadata tracking and HDF5 visual artifacts generation, transforming manual research workflow into fully automated pipeline.</p>
+                  </div>
+                </div>
+              </motion.div>
+
+              <motion.div
+                className="p-4 md:p-6 bg-card rounded-xl border border-border hover:border-primary/50 transition-all"
+                variants={cardVariants}
+                whileHover={{ y: -4, scale: 1.02 }}
+              >
+                <div className="flex items-start gap-3">
+                  <CheckCircle2 className="w-5 h-5 text-primary shrink-0 mt-0.5" />
+                  <div>
+                    <h4 className="font-semibold text-foreground mb-1">Enterprise-Grade Pipeline</h4>
+                    <p className="text-sm text-muted-foreground">Transformed gprMax into a production-ready system ensuring long-term code integrity and reliability for the global geophysical research community.</p>
+                  </div>
+                </div>
+              </motion.div>
+
+              <motion.div
+                className="p-4 md:p-6 bg-card rounded-xl border border-border hover:border-primary/50 transition-all"
+                variants={cardVariants}
+                whileHover={{ y: -4, scale: 1.02 }}
+              >
+                <div className="flex items-start gap-3">
+                  <CheckCircle2 className="w-5 h-5 text-primary shrink-0 mt-0.5" />
+                  <div>
+                    <h4 className="font-semibold text-foreground mb-1">Scalable Infrastructure</h4>
+                    <p className="text-sm text-muted-foreground">Built resilient, fully automated infrastructure supporting global simulation workloads with intelligent resource management and fail-safe mechanisms.</p>
+                  </div>
+                </div>
+              </motion.div>
+            </div>
+          </motion.div>
         </motion.div>
       </div>
     </section>
