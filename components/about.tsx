@@ -132,9 +132,9 @@ export function About() {
             </motion.div>
 
             {[
-              "I am Prateek Sharma, an Infrastructure & DevOps Engineer focused on the convergence of Computational Physics and DevOps Automation. Currently spearheading Project Trident (gprMax GSoC '26), modernizing ecosystems through automated, scalable CI/CD pipelines.",
-              "I architect high-performance infrastructures using Docker and Kubernetes (K8s). I've successfully engineered distributed data pipelines with PV/PVC storage aggregators and automated geometry validation gates achieving sub-millimeter precision (±0.001m). I don't just write code; I solve core system bottlenecks.",
-              "I'm a firm believer in the power of Open Source and am constantly pushing the boundaries of automated engineering. From resolving 30+ critical production-level errors to developing Agentic AI workflows, my focus is on creating autonomous, production-grade systems that scale.",
+              "I am a Full-Stack Developer and Open Source Enthusiast with a passion for transforming complex engineering challenges into automated solutions. Currently, I am focused on building CI/CD Pipelines and Automated Testing frameworks for advanced physics engines like gprMax, which serves as the core of my GSoC '26 initiative.",
+              "My vision is to bridge the gap between software engineering and physical simulations by creating scalable, high-performance digital infrastructure. I specialize in containerization technologies (Docker, Kubernetes), infrastructure automation, and designing robust testing frameworks that ensure reliability at scale.",
+              "With hands-on experience in microservices architecture, DevOps practices, and computational physics, I'm committed to open source contributions that advance the engineering community. My goal is to build systems that are not just functional, but transformative in how teams approach automation and infrastructure challenges.",
             ].map((text, index) => (
               <motion.p
                 key={index}
