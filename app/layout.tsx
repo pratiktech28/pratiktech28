@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   description:
     "Computer Science student specializing in Artificial Intelligence and Machine Learning. Building innovative solutions with Python, C++, Java, and modern technologies.",
   generator: "v0.app",
+  verification: {
+    google: "5EVEuQk_u3JU5trDaNLFlKSWYVaoam8SqeWwY8xJp0U",
+  },
   icons: {
     icon: [
       {
