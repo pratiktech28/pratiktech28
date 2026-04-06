@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { Github, Linkedin, Mail, Twitter, Heart, Kaggle, Instagram, MessageCircle } from "lucide-react"
+import { Github, Linkedin, Mail, Twitter, Heart, Trophy, Camera, Users } from "lucide-react"
 import { motion } from "framer-motion"
 
 export function Footer() {
@@ -46,9 +46,9 @@ export function Footer() {
               { href: "https://linkedin.com/in/prateeksharma2807", icon: Linkedin, label: "LinkedIn" },
               { href: "https://twitter.com/ipratik_sharma", icon: Twitter, label: "Twitter" },
               { href: "mailto:pratiktech28@gmail.com", icon: Mail, label: "Email" },
-              { href: "https://www.kaggle.com/pratiktech28", icon: Kaggle, label: "Kaggle" },
-              { href: "https://www.instagram.com/pratiktech28/", icon: Instagram, label: "Instagram" },
-              { href: "https://discord.com/users/pratiktech28", icon: MessageCircle, label: "Discord" },
+              { href: "https://www.kaggle.com/pratiktech28", icon: Trophy, label: "Kaggle" },
+              { href: "https://www.instagram.com/pratiktech28/", icon: Camera, label: "Instagram" },
+              { href: "https://discord.com/users/pratiktech28", icon: Users, label: "Discord" },
             ].map((social, index) => (
               <motion.div
                 key={social.label}
