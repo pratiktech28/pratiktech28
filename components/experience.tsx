@@ -5,6 +5,20 @@ import { motion } from "framer-motion"
 
 const experiences = [
   {
+    title: "Lead Systems Optimizer & Global Open Source Contributor",
+    type: "No-Quit Architecture Mindset",
+    company: "gprMax & Keploy",
+    location: "Indore, Madhya Pradesh, India",
+    period: "Ongoing",
+    duration: "Active",
+    description: [
+      "Navigated high-pressure environments, solving 30+ critical system-breaking errors preventing deployment failures",
+      "Neutralized 70+ performance inhibitors and identified deep-seated CI/CD pipeline failures and HPC bottlenecks with consistent delivery of system stability",
+      "Stabilized and optimized computational physics simulations for global user base, ensuring gprMax ecosystem remains robust and accessible worldwide",
+      "Engineered System Resilience across Keploy and gprMax ecosystems—handling Kernel Panics with focus on Absolute System Stability regardless of complexity",
+    ],
+  },
+  {
     title: "Systems Architect & AI Pathbreaker",
     type: "High-Octane Open Source Contributor",
     company: "gprMax & Keploy",
