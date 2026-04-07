@@ -1,6 +1,6 @@
 'use client'
 
-import { Download, FileText } from 'lucide-react'
+import { Download } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 export function PDFViewer() {
@@ -69,36 +69,7 @@ export function PDFViewer() {
           <h3 className="text-2xl md:text-3xl font-bold mb-2 bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
             GSoC &apos;26 official proposal for gprMax
           </h3>
-          <p className="text-gray-400 text-sm">Interactive proposal document with full details</p>
-        </div>
-
-        {/* Proposal CTA Button */}
-        <div className="flex justify-center">
-          <Button
-            onClick={() => {
-              window.open(
-                'https://drive.google.com/file/d/1vodPBpHGcMlfoetJjca5clxAB5sShX27/view?usp=sharing',
-                '_blank'
-              )
-            }}
-            className="group relative inline-flex items-center gap-2 overflow-hidden rounded-lg px-8 py-4 font-bold text-lg text-white shadow-xl transition-all duration-300 hover:scale-105"
-            style={{
-              background: 'linear-gradient(135deg, #3B82F6 0%, #8B5CF6 100%)',
-              boxShadow:
-                '0 0 40px rgba(59, 130, 246, 0.4), 0 0 80px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.2)',
-            }}
-            onMouseEnter={(e) => {
-              e.currentTarget.style.boxShadow =
-                '0 0 50px rgba(59, 130, 246, 0.7), 0 0 100px rgba(139, 92, 246, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.3)'
-            }}
-            onMouseLeave={(e) => {
-              e.currentTarget.style.boxShadow =
-                '0 0 40px rgba(59, 130, 246, 0.4), 0 0 80px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.2)'
-            }}
-          >
-            <FileText className="size-6 transition-transform group-hover:translate-y-1" />
-            <span>View Full Proposal</span>
-          </Button>
+          <p className="text-gray-400 text-sm">Read-only view • View the proposal below</p>
         </div>
 
         {/* Proposal PDF Viewer Container */}
