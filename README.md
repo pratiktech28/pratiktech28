@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=2CD1F7&background=000000&center=true&vCenter=true&width=1000&height=90&lines=%F0%9F%94%8D+Search+'pratiktech28'+on+%40google)](https://git.io/typing-svg)
 
+---
 <img width="639" height="365" alt="Screenshot From 2026-04-07 19-29-48" src="https://github.com/user-attachments/assets/0e52cad3-90de-4b70-906d-1c8ed2064841" />
 
 
