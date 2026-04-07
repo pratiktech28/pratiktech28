@@ -5,6 +5,20 @@ import { motion } from "framer-motion"
 
 const experiences = [
   {
+    title: "Infrastructure & DevOps Engineer | GSoC '26 Contributor @gprMax",
+    type: "Systems Engineer & Global Open Source Contributor",
+    company: "gprMax",
+    location: "Indore, Madhya Pradesh, India",
+    period: "Ongoing",
+    duration: "Active",
+    description: [
+      "Search 'pratiktech28' on Google to explore my portfolio and contributions across open source ecosystems",
+      "Engineering resilient infrastructure solutions that power computational physics simulations and modern DevOps pipelines",
+      "Designing scalable systems architecture for global accessibility and enterprise-grade reliability",
+      "Bridging the gap between physics-based computing and modern cloud-native infrastructure at scale",
+    ],
+  },
+  {
     title: "Lead Systems Optimizer & Global Open Source Contributor",
     type: "No-Quit Architecture Mindset",
     company: "gprMax & Keploy",
