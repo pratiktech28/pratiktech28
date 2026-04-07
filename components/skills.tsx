@@ -1,6 +1,6 @@
 "use client"
 
-import { Code2, Monitor, Server, Database, Brain, Wrench, CheckCircle2, Github } from "lucide-react"
+import { Code2, Monitor, Server, Database, Brain, Wrench, CheckCircle2, Github, Cpu, Cloud, Zap, BarChart3 } from "lucide-react"
 import { motion } from "framer-motion"
 
 const skillCategories = [
@@ -308,6 +308,154 @@ export function Skills() {
                 View on GitHub
               </a>
             </motion.div>
+          </motion.div>
+        </motion.div>
+
+        {/* Technical Expertise Deep Dive */}
+        <motion.div
+          className="mt-20 md:mt-28"
+          initial={{ opacity: 0, y: 30 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, margin: "-100px" }}
+          transition={{ duration: 0.6, delay: 0.2 }}
+        >
+          <div className="text-center mb-12 md:mb-16">
+            <motion.span
+              className="inline-block px-3 py-1 md:px-4 md:py-1.5 bg-secondary text-xs md:text-sm font-medium rounded-full text-foreground mb-3 md:mb-4"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              Deep Expertise
+            </motion.span>
+            <h3 className="text-2xl sm:text-3xl md:text-4xl font-bold text-foreground">System Architecture & Specialization</h3>
+            <p className="text-base md:text-lg text-muted-foreground mt-3 max-w-3xl mx-auto">Operating at the intersection of High-Performance Computing and Cloud-Native Infrastructure, architecting systems that are both resilient and scalable.</p>
+            <motion.div
+              className="w-12 md:w-16 h-1 bg-primary mx-auto mt-3 md:mt-4"
+              initial={{ width: 0 }}
+              whileInView={{ width: 64 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.8, delay: 0.3 }}
+            />
+          </div>
+
+          <motion.div
+            className="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-8 max-w-5xl mx-auto"
+            variants={containerVariants}
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true, margin: "-50px" }}
+          >
+            {/* Linux & System Optimization */}
+            <motion.div
+              className="group p-6 md:p-8 bg-gradient-to-br from-slate-800/50 to-slate-900/50 rounded-2xl border border-slate-700/50 hover:border-primary/50 transition-all"
+              variants={cardVariants}
+              whileHover={{ y: -8 }}
+            >
+              <div className="flex items-start gap-4 mb-4">
+                <div className="p-3 bg-primary/20 rounded-lg">
+                  <Cpu className="w-6 h-6 text-primary" />
+                </div>
+                <div>
+                  <h4 className="text-xl font-bold text-foreground">Linux & System Optimization</h4>
+                  <p className="text-sm text-muted-foreground mt-1">Deep kernel-level expertise</p>
+                </div>
+              </div>
+              <p className="text-muted-foreground leading-relaxed mb-4">
+                Core tech stack anchored in profound proficiency with Linux (Fedora), leveraging low-level system understanding to optimize workflows and ensure environment stability across distributed systems.
+              </p>
+              <div className="flex flex-wrap gap-2">
+                <span className="px-3 py-1 bg-slate-700/40 rounded-full text-xs font-medium text-foreground">Fedora</span>
+                <span className="px-3 py-1 bg-slate-700/40 rounded-full text-xs font-medium text-foreground">System Tuning</span>
+                <span className="px-3 py-1 bg-slate-700/40 rounded-full text-xs font-medium text-foreground">Kernel Optimization</span>
+              </div>
+            </motion.div>
+
+            {/* Containerization & Orchestration */}
+            <motion.div
+              className="group p-6 md:p-8 bg-gradient-to-br from-slate-800/50 to-slate-900/50 rounded-2xl border border-slate-700/50 hover:border-primary/50 transition-all"
+              variants={cardVariants}
+              whileHover={{ y: -8 }}
+            >
+              <div className="flex items-start gap-4 mb-4">
+                <div className="p-3 bg-primary/20 rounded-lg">
+                  <Cloud className="w-6 h-6 text-primary" />
+                </div>
+                <div>
+                  <h4 className="text-xl font-bold text-foreground">Containerization & Orchestration</h4>
+                  <p className="text-sm text-muted-foreground mt-1">Enterprise-scale deployment</p>
+                </div>
+              </div>
+              <p className="text-muted-foreground leading-relaxed mb-4">
+                Specialized in containerization and orchestration, utilizing Docker and Kubernetes to deploy complex microservices and stabilize computational pipelines at global scale.
+              </p>
+              <div className="flex flex-wrap gap-2">
+                <span className="px-3 py-1 bg-slate-700/40 rounded-full text-xs font-medium text-foreground">Docker</span>
+                <span className="px-3 py-1 bg-slate-700/40 rounded-full text-xs font-medium text-foreground">Kubernetes</span>
+                <span className="px-3 py-1 bg-slate-700/40 rounded-full text-xs font-medium text-foreground">Microservices</span>
+              </div>
+            </motion.div>
+
+            {/* Data Visualization & Physics Simulations */}
+            <motion.div
+              className="group p-6 md:p-8 bg-gradient-to-br from-slate-800/50 to-slate-900/50 rounded-2xl border border-slate-700/50 hover:border-primary/50 transition-all"
+              variants={cardVariants}
+              whileHover={{ y: -8 }}
+            >
+              <div className="flex items-start gap-4 mb-4">
+                <div className="p-3 bg-primary/20 rounded-lg">
+                  <BarChart3 className="w-6 h-6 text-primary" />
+                </div>
+                <div>
+                  <h4 className="text-xl font-bold text-foreground">Data & Physics Visualization</h4>
+                  <p className="text-sm text-muted-foreground mt-1">Scientific computing expertise</p>
+                </div>
+              </div>
+              <p className="text-muted-foreground leading-relaxed mb-4">
+                For data-driven insights and physics simulations, leveraging Matplotlib and Python&apos;s scientific ecosystem to transform raw computational data into high-fidelity visualizations and actionable insights.
+              </p>
+              <div className="flex flex-wrap gap-2">
+                <span className="px-3 py-1 bg-slate-700/40 rounded-full text-xs font-medium text-foreground">Matplotlib</span>
+                <span className="px-3 py-1 bg-slate-700/40 rounded-full text-xs font-medium text-foreground">Python Scientific</span>
+                <span className="px-3 py-1 bg-slate-700/40 rounded-full text-xs font-medium text-foreground">Simulations</span>
+              </div>
+            </motion.div>
+
+            {/* System Design & CI/CD */}
+            <motion.div
+              className="group p-6 md:p-8 bg-gradient-to-br from-slate-800/50 to-slate-900/50 rounded-2xl border border-slate-700/50 hover:border-primary/50 transition-all"
+              variants={cardVariants}
+              whileHover={{ y: -8 }}
+            >
+              <div className="flex items-start gap-4 mb-4">
+                <div className="p-3 bg-primary/20 rounded-lg">
+                  <Zap className="w-6 h-6 text-primary" />
+                </div>
+                <div>
+                  <h4 className="text-xl font-bold text-foreground">System Design & Automation</h4>
+                  <p className="text-sm text-muted-foreground mt-1">Production-grade infrastructure</p>
+                </div>
+              </div>
+              <p className="text-muted-foreground leading-relaxed mb-4">
+                Beyond coding, focus on rigorous System Design logic to build automated CI/CD infrastructures that bridge the gap between theoretical physics and production-ready software, managing kernel-level performance to orchestrating global deployments.
+              </p>
+              <div className="flex flex-wrap gap-2">
+                <span className="px-3 py-1 bg-slate-700/40 rounded-full text-xs font-medium text-foreground">CI/CD Pipelines</span>
+                <span className="px-3 py-1 bg-slate-700/40 rounded-full text-xs font-medium text-foreground">System Design</span>
+                <span className="px-3 py-1 bg-slate-700/40 rounded-full text-xs font-medium text-foreground">Reliability</span>
+              </div>
+            </motion.div>
+          </motion.div>
+
+          <motion.div
+            className="mt-12 md:mt-16 p-6 md:p-8 bg-gradient-to-r from-primary/10 to-primary/5 rounded-2xl border border-primary/20"
+            initial={{ opacity: 0, scale: 0.95 }}
+            whileInView={{ opacity: 1, scale: 1 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6, delay: 0.3 }}
+          >
+            <p className="text-center text-foreground text-base md:text-lg leading-relaxed">
+              <span className="font-semibold">Core Philosophy:</span> Build for absolute reliability and performance. Whether managing kernel-level optimization or orchestrating global deployments, the mission remains consistent—engineer systems that are both resilient and infinitely scalable across any environment.
+            </p>
           </motion.div>
         </motion.div>
       </div>
