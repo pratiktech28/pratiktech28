@@ -62,6 +62,43 @@ export function PDFViewer() {
           />
         </div>
       </div>
+
+      {/* GSoC '26 Official Proposal Section */}
+      <div className="mt-16 space-y-6">
+        <div className="text-center">
+          <h3 className="text-2xl md:text-3xl font-bold mb-2 bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
+            GSoC &apos;26 official proposal for gprMax
+          </h3>
+          <p className="text-gray-400 text-sm">Read-only view • View the proposal below</p>
+        </div>
+
+        {/* Proposal PDF Viewer Container */}
+        <div className="relative w-full rounded-[12px] border border-[#1f2937] bg-slate-900/40 p-1 shadow-[0_0_30px_rgba(59,130,246,0.15),0_0_60px_rgba(139,92,246,0.1)]">
+          {/* Desktop View - 600px */}
+          <div className="hidden h-[600px] w-full overflow-hidden rounded-[10px] bg-slate-950 md:block">
+            <iframe
+              src="https://drive.google.com/file/d/1vodPBpHGcMlfoetJjca5clxAB5sShX27/preview"
+              width="100%"
+              height="100%"
+              allow="autoplay"
+              className="border-none"
+              title="GSoC 26 Proposal Viewer"
+            />
+          </div>
+
+          {/* Mobile View - 400px */}
+          <div className="h-[400px] w-full overflow-hidden rounded-[10px] bg-slate-950 md:hidden">
+            <iframe
+              src="https://drive.google.com/file/d/1vodPBpHGcMlfoetJjca5clxAB5sShX27/preview"
+              width="100%"
+              height="100%"
+              allow="autoplay"
+              className="border-none"
+              title="GSoC 26 Proposal Viewer"
+            />
+          </div>
+        </div>
+      </div>
     </div>
   )
 }

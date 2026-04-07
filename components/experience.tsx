@@ -5,6 +5,48 @@ import { motion } from "framer-motion"
 
 const experiences = [
   {
+    title: "Infrastructure & DevOps Engineer | GSoC '26 Contributor @gprMax",
+    type: "Systems Engineer & Global Open Source Contributor",
+    company: "gprMax",
+    location: "Indore, Madhya Pradesh, India",
+    period: "Ongoing",
+    duration: "Active",
+    description: [
+      "Search 'pratiktech28' on Google to explore my portfolio and contributions across open source ecosystems",
+      "Engineering resilient infrastructure solutions that power computational physics simulations and modern DevOps pipelines",
+      "Designing scalable systems architecture for global accessibility and enterprise-grade reliability",
+      "Bridging the gap between physics-based computing and modern cloud-native infrastructure at scale",
+    ],
+  },
+  {
+    title: "Lead Systems Optimizer & Global Open Source Contributor",
+    type: "No-Quit Architecture Mindset",
+    company: "gprMax & Keploy",
+    location: "Indore, Madhya Pradesh, India",
+    period: "Ongoing",
+    duration: "Active",
+    description: [
+      "Navigated high-pressure environments, solving 30+ critical system-breaking errors preventing deployment failures",
+      "Neutralized 70+ performance inhibitors and identified deep-seated CI/CD pipeline failures and HPC bottlenecks with consistent delivery of system stability",
+      "Stabilized and optimized computational physics simulations for global user base, ensuring gprMax ecosystem remains robust and accessible worldwide",
+      "Engineered System Resilience across Keploy and gprMax ecosystems—handling Kernel Panics with focus on Absolute System Stability regardless of complexity",
+    ],
+  },
+  {
+    title: "Systems Architect & AI Pathbreaker",
+    type: "High-Octane Open Source Contributor",
+    company: "gprMax & Keploy",
+    location: "Indore, Madhya Pradesh, India",
+    period: "Ongoing",
+    duration: "Active",
+    description: [
+      "Architecting the future of Open Source at gprMax and Keploy with deep expertise in Physics-CI/CD intersection",
+      "Neutralized 70+ performance bottlenecks in computational physics simulations, earning status as one of most active contributors in ecosystem",
+      "Engineered resilient automated testing frameworks and enterprise-grade testing infrastructure for Agentic AI systems",
+      "Optimizing HPC infrastructure and building systems that power the next generation of Agentic AI while operating at peak efficiency",
+    ],
+  },
+  {
     title: "GSoC '26 Contributor",
     type: "Infrastructure & DevOps Engineer",
     company: "gprMax",
