@@ -179,7 +179,7 @@ export function Hero() {
                   animate={{ opacity: 1 }}
                   transition={{ duration: 0.5, delay: 1.5 }}
                 >
-                  Infrastructure & DevOps Engineer | GSoC '26 Contributor @gprMax
+                  Infrastructure & DevOps Engineer | GSoC '26 Contributor @gprMax | 🔍 Search &apos;pratiktech28&apos; on @google
                 </motion.span>
               </motion.p>
             </div>
