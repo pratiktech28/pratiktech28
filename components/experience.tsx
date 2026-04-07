@@ -5,6 +5,20 @@ import { motion } from "framer-motion"
 
 const experiences = [
   {
+    title: "Systems Architect & AI Pathbreaker",
+    type: "High-Octane Open Source Contributor",
+    company: "gprMax & Keploy",
+    location: "Indore, Madhya Pradesh, India",
+    period: "Ongoing",
+    duration: "Active",
+    description: [
+      "Architecting the future of Open Source at gprMax and Keploy with deep expertise in Physics-CI/CD intersection",
+      "Neutralized 70+ performance bottlenecks in computational physics simulations, earning status as one of most active contributors in ecosystem",
+      "Engineered resilient automated testing frameworks and enterprise-grade testing infrastructure for Agentic AI systems",
+      "Optimizing HPC infrastructure and building systems that power the next generation of Agentic AI while operating at peak efficiency",
+    ],
+  },
+  {
     title: "GSoC '26 Contributor",
     type: "Infrastructure & DevOps Engineer",
     company: "gprMax",
