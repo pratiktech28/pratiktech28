@@ -26,7 +26,7 @@ export function GprmaxExpertise() {
     },
     {
       id: 3,
-      title: "gprMax Core Contribution & GSoC '26 Selection",
+      title: "gprMax Core Contribution & GSoC '26 Experience",
       description:
         "Official GSoC '26 proposal submitted on March 23, 2026, focusing on Automated Physics-Based Regression Testing and Cloud-Native scaling for gprMax. Earned explicit appreciation from Dr. Craig Warren (lead maintainer) for technical depth, persistence, and rigorous System Design. Operating from Linux (Fedora) foundation, delivering production-ready resilience and architectural excellence.",
       image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/download%20%282%29-pLYPWLhPd9De6B5imu4JIovV11gMVe.jpeg",
@@ -76,8 +76,8 @@ export function GprmaxExpertise() {
               System Architecture & Specialization
             </span>
           </h2>
-          <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Lead Systems Optimizer & GSoC &apos;26 Experience for gprMax
+          <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            Architecting high-availability distributed systems with a focus on 99.99% reliability and hyperscale efficiency. Expert in orchestrating Kubernetes (K8s) primitives, CI/CD pipelines, and automated regression-as-code via Keploy. Driving Shift-Left observability and sub-millisecond latency through robust Go-based backend engineering. Verified GSoC &apos;26 Contributor leveraging Google Search Console for peak digital authority and global discoverability.
           </p>
         </motion.div>
 
@@ -141,7 +141,7 @@ export function GprmaxExpertise() {
           transition={{ duration: 0.6, delay: 0.6 }}
         >
           <h3 className="text-2xl font-bold mb-6 text-foreground">Key Achievements</h3>
-          <div className="grid md:grid-cols-3 gap-6">
+          <div className="grid md:grid-cols-2 gap-6">
             <div className="flex items-start gap-4">
               <div className="flex-shrink-0 w-12 h-12 rounded-lg bg-gradient-to-br from-yellow-400 to-orange-500 flex items-center justify-center">
                 <span className="text-white font-bold text-lg">70+</span>
@@ -158,15 +158,6 @@ export function GprmaxExpertise() {
               <div>
                 <p className="font-semibold text-foreground">Major Execution Errors Fixed</p>
                 <p className="text-sm text-muted-foreground mt-1">Transformed into streamlined, automated workflows</p>
-              </div>
-            </div>
-            <div className="flex items-start gap-4">
-              <div className="flex-shrink-0 w-12 h-12 rounded-lg bg-gradient-to-br from-orange-400 to-yellow-500 flex items-center justify-center">
-                <span className="text-white font-bold text-lg">GSoC</span>
-              </div>
-              <div>
-                <p className="font-semibold text-foreground">Official GSoC &apos;26 Selection</p>
-                <p className="text-sm text-muted-foreground mt-1">Proposal submitted March 23, 2026 for gprMax</p>
               </div>
             </div>
           </div>
