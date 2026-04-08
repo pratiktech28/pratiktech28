@@ -4,6 +4,7 @@ import { About } from "@/components/about"
 import { Skills } from "@/components/skills"
 import { Experience } from "@/components/experience"
 import { Milestones } from "@/components/milestones"
+import { Infrastructure } from "@/components/infrastructure"
 import { Projects } from "@/components/projects"
 import { Education } from "@/components/education"
 import { PDFViewer } from "@/components/pdf-viewer"
@@ -19,6 +20,7 @@ export default function Home() {
       <Skills />
       <Experience />
       <Milestones />
+      <Infrastructure />
       <Projects />
       <Education />
       <section className="py-12 md:py-20 px-4 md:px-8 max-w-6xl mx-auto">
