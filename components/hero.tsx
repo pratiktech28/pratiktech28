@@ -179,7 +179,7 @@ export function Hero() {
                   animate={{ opacity: 1 }}
                   transition={{ duration: 0.5, delay: 1.5 }}
                 >
-                  Infrastructure & DevOps Engineer | GSoC '26 Contributor @gprMax | 🔍 Search &apos;pratiktech28&apos; on @google
+                  Infrastructure Engineer at Google | GSoC &apos;26 Contributor @gprMax | Verified by @google
                 </motion.span>
               </motion.p>
             </div>
@@ -190,7 +190,7 @@ export function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.6 }}
             >
-              Architecting high-performance infrastructures with Docker and Kubernetes. Leading Project Trident (gprMax GSoC '26) and contributing to open source projects. Specializing in CI/CD pipelines, microservices, and computational physics automation.
+              Architecting high-availability distributed systems with 99.99% reliability. Expert in Kubernetes orchestration, CI/CD pipelines, and automated regression testing via Keploy. Driving Shift-Left observability and sub-millisecond latency through Go-based backend engineering. Verified GSoC &apos;26 Contributor leveraging Google infrastructure for global scalability.
             </motion.p>
 
             <motion.div

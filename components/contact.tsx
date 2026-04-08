@@ -5,7 +5,7 @@ import { useState } from "react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { Mail, MapPin, Send, Linkedin, Github, Phone, Twitter, CheckCircle2 } from "lucide-react"
+import { Mail, MapPin, Send, Linkedin, Github, Phone, Twitter, CheckCircle2, Camera, Trophy, Users } from "lucide-react"
 import { motion, AnimatePresence } from "framer-motion"
 
 const contactInfo = [
@@ -44,6 +44,21 @@ const socialLinks = [
     icon: Twitter,
     label: "Twitter",
     href: "https://twitter.com/ipratik_sharma",
+  },
+  {
+    icon: Camera,
+    label: "Instagram",
+    href: "https://www.instagram.com/pratiktech28/",
+  },
+  {
+    icon: Trophy,
+    label: "Kaggle",
+    href: "https://www.kaggle.com/pratiktech28",
+  },
+  {
+    icon: Users,
+    label: "Discord",
+    href: "https://discord.com/users/pratiktech28",
   },
 ]
 
