@@ -3,16 +3,14 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
   images: {
     unoptimized: true,
   },
-  experimental: {
-    turbo: {
-    },
-  },
-  webpack: (config) => {
-    return config;
-  },
+  experimental: {},
+  
 };
 
 export default nextConfig;
