@@ -179,7 +179,7 @@ export function Hero() {
                   animate={{ opacity: 1 }}
                   transition={{ duration: 0.5, delay: 1.5 }}
                 >
-                  Infrastructure Cloud Architect | GSoC &apos;26 Contributor @gprMax | Verified by @google | Contributor@keploy
+                  Infrastructure Cloud Architect | GSoC &apos;26 Contributor @gprMax | Verified by @google | Official Contributor @keploy
                 </motion.span>
               </motion.p>
             </div>
