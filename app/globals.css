@@ -119,11 +119,17 @@
 @layer base {
   * {
     @apply border-border outline-ring/50;
+    transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 200ms;
   }
+
   body {
     @apply bg-background text-foreground;
     font-feature-settings: "rlig" 1, "calt" 1;
+    overflow-x: hidden;
   }
+
   html {
     scroll-behavior: smooth;
     text-rendering: optimizeLegibility;
@@ -131,11 +137,131 @@
     -moz-osx-font-smoothing: grayscale;
   }
   
+  /* Link smooth transitions */
+  a {
+    @apply transition-colors duration-300;
+  }
+
+  /* Button smooth interactions */
+  button {
+    @apply transition-all duration-300;
+    will-change: transform, background-color, box-shadow;
+  }
+
+  button:hover {
+    @apply transform scale-[1.02];
+  }
+
+  button:active {
+    @apply transform scale-[0.98];
+  }
+
+  /* Input smooth focus */
+  input, textarea, select {
+    @apply transition-all duration-300;
+  }
+
+  input:focus, textarea:focus, select:focus {
+    @apply ring-2 ring-offset-2;
+  }
+
   /* Performance optimizations */
   img {
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
+    @apply transition-opacity duration-500;
+    will-change: opacity;
+  }
+
+  /* Smooth page transitions */
+  section {
+    @apply transition-opacity duration-500;
+  }
+
+  /* Smooth text selection */
+  ::selection {
+    @apply bg-primary/30 text-foreground;
+  }
+
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-background;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-primary/50 rounded-full transition-colors duration-300;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-primary/80;
+  }
+
+  /* Smooth fade in on load */
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideInFromLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes slideInFromRight {
+    from {
+      opacity: 0;
+      transform: translateX(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes scaleIn {
+    from {
+      opacity: 0;
+      transform: scale(0.95);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  @keyframes shimmer {
+    0% {
+      background-position: -1000px 0;
+    }
+    100% {
+      background-position: 1000px 0;
+    }
   }
 
   /* Reduce paint areas */
@@ -148,5 +274,57 @@
       animation-iteration-count: 1 !important;
       transition-duration: 0.01ms !important;
     }
+  }
+
+  /* Performance hints */
+  [data-animate] {
+    will-change: transform, opacity;
+  }
+
+  /* Smooth hover effects */
+  @supports (backdrop-filter: blur(1px)) {
+    .glass {
+      backdrop-filter: blur(10px);
+      transition: all 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    }
+  }
+}
+
+@layer components {
+  /* Smooth button animations */
+  .btn-smooth {
+    @apply transition-all duration-300 hover:shadow-lg active:scale-95;
+  }
+
+  /* Smooth card animations */
+  .card-smooth {
+    @apply transition-all duration-300 hover:shadow-xl hover:scale-[1.02];
+  }
+
+  /* Smooth text animations */
+  .text-smooth {
+    @apply transition-colors duration-300;
+  }
+
+  /* Gradient text animation */
+  .gradient-text {
+    background: linear-gradient(90deg, #ff6b00, #ffa500, #ffb347);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: shimmer 3s infinite;
+    background-size: 200% 100%;
+  }
+
+  /* Loading shimmer */
+  .shimmer-loading {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0)
+    );
+    background-size: 200% 100%;
+    animation: shimmer 2s infinite;
   }
 }
