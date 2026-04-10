@@ -1,0 +1,23 @@
+# SEO Optimization - Allow all bots to crawl and index
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /.next/
+Disallow: /node_modules/
+Crawl-delay: 0
+Request-rate: 1 request per 10 seconds
+
+# Google
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /.next/
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /.next/
+
+# Sitemap
+Sitemap: https://pratiksharma.vercel.app/sitemap.xml
