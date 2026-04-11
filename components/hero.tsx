@@ -9,7 +9,7 @@ const floatingAnimation = {
   y: [0, -10, 0],
   transition: {
     duration: 3,
-    repeat: Number.POSITIVE_INFINITY,
+    repeat: Infinity,
     ease: "easeInOut",
   },
 }
@@ -22,7 +22,7 @@ const glowAnimation = {
   ],
   transition: {
     duration: 2,
-    repeat: Number.POSITIVE_INFINITY,
+    repeat: Infinity,
     ease: "easeInOut",
   },
 }
@@ -39,7 +39,7 @@ export function Hero() {
             scale: [1, 1.2, 1],
             opacity: [0.3, 0.5, 0.3],
           }}
-          transition={{ duration: 8, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
+          transition={{ duration: 8, repeat: Infinity, ease: "easeInOut" } as any}
         />
         <motion.div
           className="absolute bottom-10 right-5 md:bottom-20 md:right-10 w-64 h-64 md:w-96 md:h-96 bg-primary/5 rounded-full blur-3xl"
@@ -47,7 +47,7 @@ export function Hero() {
             scale: [1.2, 1, 1.2],
             opacity: [0.5, 0.3, 0.5],
           }}
-          transition={{ duration: 8, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
+          transition={{ duration: 8, repeat: Infinity, ease: "easeInOut" } as any}
         />
       </div>
 
@@ -67,13 +67,13 @@ export function Hero() {
                   rotate: 360,
                   borderColor: ["rgba(59, 130, 246, 0.3)", "rgba(59, 130, 246, 0.6)", "rgba(59, 130, 246, 0.3)"],
                 }}
-                transition={{ duration: 8, repeat: Number.POSITIVE_INFINITY, ease: "linear" }}
+                transition={{ duration: 8, repeat: Infinity, ease: "linear" } as any}
               />
               <motion.div
                 className="absolute inset-0 rounded-full border-2 border-dashed border-primary/20"
                 style={{ scale: 1.2 }}
                 animate={{ rotate: -360 }}
-                transition={{ duration: 12, repeat: Number.POSITIVE_INFINITY, ease: "linear" }}
+                transition={{ duration: 12, repeat: Infinity, ease: "linear" } as any}
               />
 
               <motion.div
@@ -92,7 +92,7 @@ export function Hero() {
                 transition={{ duration: 0.5, delay: 1.2 }}
                 whileHover={{ scale: 1.1, rotate: 10 }}
               >
-                <motion.div animate={floatingAnimation}>
+                <motion.div animate={floatingAnimation as any}>
                   <span className="text-primary-foreground text-[10px] md:text-xs font-semibold text-center px-1">
                     AI/ML
                     <br />
@@ -101,17 +101,17 @@ export function Hero() {
                 </motion.div>
               </motion.div>
 
-              <motion.div
-                className="hidden sm:block absolute -top-2 -left-2 p-2 bg-card rounded-lg border border-border shadow-lg"
-                animate={{ y: [0, -8, 0], rotate: [0, 5, 0] }}
-                transition={{ duration: 4, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
-              >
+        <motion.div
+          <motion.div
+            animate={{ y: [0, 10, 0] }}
+            transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" } as any}
+          >
                 <span className="text-lg">🐍</span>
               </motion.div>
               <motion.div
                 className="hidden sm:block absolute top-1/4 -right-4 md:-right-6 p-2 bg-card rounded-lg border border-border shadow-lg"
                 animate={{ y: [0, 8, 0], rotate: [0, -5, 0] }}
-                transition={{ duration: 3.5, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut", delay: 0.5 }}
+                transition={{ duration: 3.5, repeat: Infinity, ease: "easeInOut", delay: 0.5 } as any}
               >
                 <span className="text-lg">🤖</span>
               </motion.div>
@@ -133,7 +133,7 @@ export function Hero() {
               >
                 <motion.div
                   animate={{ rotate: 360 }}
-                  transition={{ duration: 3, repeat: Number.POSITIVE_INFINITY, ease: "linear" }}
+                  transition={{ duration: 3, repeat: Infinity, ease: "linear" } as any}
                 >
                   <Sparkles className="w-3 h-3 md:w-4 md:h-4 text-primary" />
                 </motion.div>
@@ -209,7 +209,7 @@ export function Hero() {
                     Learn More
                     <motion.span
                       animate={{ y: [0, 3, 0] }}
-                      transition={{ duration: 1.5, repeat: Number.POSITIVE_INFINITY }}
+                      transition={{ duration: 1.5, repeat: Infinity } as any}
                     >
                       <ArrowDown className="w-4 h-4 ml-2" />
                     </motion.span>

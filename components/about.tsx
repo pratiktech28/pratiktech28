@@ -69,18 +69,18 @@ export function About() {
           backgroundSize: "40px 40px",
         }}
         animate={{ backgroundPosition: ["0px 0px", "40px 40px"] }}
-        transition={{ duration: 20, repeat: Number.POSITIVE_INFINITY, ease: "linear" }}
+        transition={{ duration: 20, repeat: Infinity, ease: "linear" } as any}
       />
 
       <motion.div
         className="absolute top-20 left-10 w-20 h-20 bg-primary/10 rounded-full blur-xl"
         animate={{ y: [0, 30, 0], x: [0, 20, 0] }}
-        transition={{ duration: 8, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
+        transition={{ duration: 8, repeat: Infinity, ease: "easeInOut" } as any}
       />
       <motion.div
         className="absolute bottom-20 right-10 w-32 h-32 bg-primary/10 rounded-full blur-xl"
         animate={{ y: [0, -30, 0], x: [0, -20, 0] }}
-        transition={{ duration: 10, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
+        transition={{ duration: 10, repeat: Infinity, ease: "easeInOut" } as any}
       />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
@@ -123,8 +123,8 @@ export function About() {
               transition={{ delay: 0.2 }}
             >
               <motion.div
-                animate={{ rotate: [0, 360] }}
-                transition={{ duration: 8, repeat: Number.POSITIVE_INFINITY, ease: "linear" }}
+                animate={{ rotate: 360 }}
+                transition={{ duration: 8, repeat: Infinity, ease: "linear" } as any}
               >
                 <Code2 className="w-5 h-5 md:w-6 md:h-6 text-primary" />
               </motion.div>

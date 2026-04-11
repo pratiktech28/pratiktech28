@@ -58,12 +58,12 @@ export function GlobalVisionary() {
       <motion.div
         className="absolute top-0 left-0 w-72 h-72 bg-primary/5 rounded-full blur-3xl"
         animate={{ y: [0, 50, 0], x: [0, 30, 0] }}
-        transition={{ duration: 15, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
+        transition={{ duration: 15, repeat: Infinity, ease: "easeInOut" } as any}
       />
       <motion.div
         className="absolute bottom-0 right-0 w-96 h-96 bg-primary/5 rounded-full blur-3xl"
         animate={{ y: [0, -50, 0], x: [0, -30, 0] }}
-        transition={{ duration: 20, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
+        transition={{ duration: 20, repeat: Infinity, ease: "easeInOut" } as any}
       />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
@@ -185,7 +185,7 @@ export function GlobalVisionary() {
             <motion.div
               className="flex-shrink-0 p-3 md:p-4 bg-primary/20 rounded-lg"
               animate={{ rotate: [0, 5, -5, 0] }}
-              transition={{ duration: 4, repeat: Number.POSITIVE_INFINITY }}
+              transition={{ duration: 4, repeat: Infinity } as any}
             >
               <Users className="w-6 h-6 md:w-7 md:h-7 text-primary" />
             </motion.div>
