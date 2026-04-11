@@ -79,7 +79,7 @@ export function Skills() {
             x: [0, 50, 0],
             y: [0, 30, 0],
           }}
-          transition={{ duration: 10, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
+          transition={{ duration: 10, repeat: Infinity, ease: "easeInOut" } as any}
         />
         <motion.div
           className="absolute bottom-1/4 right-1/4 w-40 md:w-64 h-40 md:h-64 bg-primary/5 rounded-full blur-3xl"
@@ -87,7 +87,7 @@ export function Skills() {
             x: [0, -50, 0],
             y: [0, -30, 0],
           }}
-          transition={{ duration: 12, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
+          transition={{ duration: 12, repeat: Infinity, ease: "easeInOut" } as any}
         />
       </div>
 

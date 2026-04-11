@@ -60,12 +60,12 @@ export function Infrastructure() {
       <motion.div
         className="absolute top-32 right-20 w-40 h-40 bg-blue-500/5 rounded-full blur-3xl"
         animate={{ y: [0, 25, 0] }}
-        transition={{ duration: 7, repeat: Number.POSITIVE_INFINITY }}
+        transition={{ duration: 7, repeat: Infinity } as any}
       />
       <motion.div
         className="absolute bottom-32 left-20 w-48 h-48 bg-orange-500/5 rounded-full blur-3xl"
         animate={{ y: [0, -25, 0] }}
-        transition={{ duration: 9, repeat: Number.POSITIVE_INFINITY }}
+        transition={{ duration: 9, repeat: Infinity } as any}
       />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
