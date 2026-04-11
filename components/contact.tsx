@@ -101,7 +101,7 @@ export function Contact() {
       <motion.div
         className="absolute top-20 left-20 w-40 h-40 bg-primary/5 rounded-full blur-3xl"
         animate={{ scale: [1, 1.3, 1], x: [0, 30, 0] }}
-        transition={{ duration: 8, repeat: Number.POSITIVE_INFINITY }}
+        transition={{ duration: 8, repeat: Infinity } as any}
       />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">

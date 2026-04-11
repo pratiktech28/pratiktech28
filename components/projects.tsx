@@ -79,7 +79,7 @@ export function Projects() {
         <motion.div
           className="absolute top-0 left-1/2 -translate-x-1/2 w-[400px] md:w-[800px] h-[200px] md:h-[400px] bg-primary/5 rounded-full blur-3xl"
           animate={{ scale: [1, 1.1, 1], opacity: [0.3, 0.5, 0.3] }}
-          transition={{ duration: 8, repeat: Number.POSITIVE_INFINITY }}
+          transition={{ duration: 8, repeat: Infinity } as any}
         />
       </div>
 
@@ -243,8 +243,8 @@ export function Projects() {
             >
               <Link href="https://github.com/pratiktech28" target="_blank" rel="noopener noreferrer">
                 <motion.span
-                  animate={{ rotate: [0, 360] }}
-                  transition={{ duration: 8, repeat: Number.POSITIVE_INFINITY, ease: "linear" }}
+                  animate={{ rotate: 360 }}
+                  transition={{ duration: 8, repeat: Infinity, ease: "linear" } as any}
                   className="mr-2"
                 >
                   <Github className="w-4 h-4 md:w-5 md:h-5" />

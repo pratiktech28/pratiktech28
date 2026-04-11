@@ -271,7 +271,7 @@ export function Hero() {
         >
           <motion.div
             animate={{ y: [0, 10, 0] }}
-            transition={{ duration: 2, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
+            transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" } as any}
           >
             <Link href="#about" className="text-muted-foreground hover:text-foreground transition-colors">
               <ArrowDown className="w-5 h-5 md:w-6 md:h-6" />

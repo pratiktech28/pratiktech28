@@ -58,7 +58,7 @@ export function Education() {
       <motion.div
         className="absolute top-1/3 left-1/4 w-40 h-40 bg-primary/5 rounded-full blur-3xl"
         animate={{ scale: [1, 1.2, 1] }}
-        transition={{ duration: 6, repeat: Number.POSITIVE_INFINITY }}
+        transition={{ duration: 6, repeat: Infinity } as any}
       />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">

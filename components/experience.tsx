@@ -94,14 +94,19 @@ export function Experience() {
   return (
     <section id="experience" className="py-12 md:py-16 lg:py-20 bg-card/50 relative overflow-hidden">
       <motion.div
-        className="absolute top-20 right-10 w-32 h-32 bg-primary/5 rounded-full blur-2xl"
-        animate={{ y: [0, 20, 0] }}
-        transition={{ duration: 6, repeat: Number.POSITIVE_INFINITY }}
+        className="absolute top-1/4 -right-20 w-64 h-64 bg-primary/5 rounded-full blur-3xl"
+        animate={{ y: [0, 30, 0] }}
+        transition={{ duration: 6, repeat: Infinity } as any}
+      />
+      <motion.div
+        className="absolute bottom-1/4 -left-20 w-72 h-72 bg-primary/5 rounded-full blur-3xl"
+        animate={{ y: [0, -30, 0] }}
+        transition={{ duration: 8, repeat: Infinity } as any}
       />
       <motion.div
         className="absolute bottom-20 left-10 w-40 h-40 bg-primary/5 rounded-full blur-2xl"
         animate={{ y: [0, -20, 0] }}
-        transition={{ duration: 8, repeat: Number.POSITIVE_INFINITY }}
+        transition={{ duration: 8, repeat: Infinity } as any}
       />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
@@ -148,7 +153,7 @@ export function Experience() {
                 <motion.div
                   className="absolute inset-0 bg-primary rounded-full"
                   animate={{ scale: [1, 1.5, 1], opacity: [1, 0, 1] }}
-                  transition={{ duration: 2, repeat: Number.POSITIVE_INFINITY }}
+                  transition={{ duration: 2, repeat: Infinity } as any}
                 />
               </motion.div>
               <div className="absolute left-[5px] md:left-[7px] top-4 w-0.5 h-full bg-border last:hidden" />

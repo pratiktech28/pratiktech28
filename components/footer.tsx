@@ -16,7 +16,7 @@ export function Footer() {
       <motion.div
         className="absolute inset-0 bg-gradient-to-r from-primary/5 via-transparent to-primary/5"
         animate={{ x: ["-100%", "100%"] }}
-        transition={{ duration: 10, repeat: Number.POSITIVE_INFINITY, ease: "linear" }}
+        transition={{ duration: 10, repeat: Infinity, ease: "linear" } as any}
       />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
@@ -81,7 +81,7 @@ export function Footer() {
             Made with{" "}
             <motion.span
               animate={{ scale: [1, 1.2, 1] }}
-              transition={{ duration: 1, repeat: Number.POSITIVE_INFINITY }}
+              transition={{ duration: 1, repeat: Infinity } as any}
             >
               <Heart className="w-3 h-3 md:w-4 md:h-4 text-red-500 fill-red-500" />
             </motion.span>{" "}
