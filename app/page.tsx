@@ -2,6 +2,7 @@ import { Header } from "@/components/header"
 import { Hero } from "@/components/hero"
 import { About } from "@/components/about"
 import { GlobalVisionary } from "@/components/global-visionary"
+import { KeployContributor } from "@/components/keploy-contributor"
 import { Skills } from "@/components/skills"
 import { Experience } from "@/components/experience"
 import { Milestones } from "@/components/milestones"
@@ -20,6 +21,7 @@ export default function Home() {
       <Hero />
       <About />
       <GlobalVisionary />
+      <KeployContributor />
       <Skills />
       <Experience />
       <Milestones />
