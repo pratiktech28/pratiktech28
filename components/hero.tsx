@@ -125,7 +125,6 @@ export function Hero() {
                 <div className="absolute -inset-4 bg-primary/20 blur-3xl -z-10 rounded-full" />
               </motion.div>
             </div>
-          </motion.div>
 
           <motion.div
             className="space-y-6 md:space-y-8 text-center lg:text-left order-2 lg:order-1"
