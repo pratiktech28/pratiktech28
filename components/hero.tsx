@@ -98,10 +98,10 @@ export function Hero() {
                     <br />
                     Enthusiast
                   </span>
+                </motion.div>
               </motion.div>
-            </motion.div>
 
-            <div className="relative flex justify-center items-center mt-10">
+              <div className="relative flex justify-center items-center mt-10">
               <motion.div className="relative">
                 {/* Floating Snake Icon */}
                 <motion.div
