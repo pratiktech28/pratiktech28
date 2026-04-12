@@ -102,29 +102,31 @@ export function Hero() {
               </motion.div>
 
               <div className="relative flex justify-center items-center mt-10">
-              <motion.div className="relative">
-                {/* Floating Snake Icon */}
-                <motion.div
-                  animate={{ y: [0, 10, 0] }}
-                  transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" } as any}
-                  className="z-10"
-                >
-                  <span className="text-4xl md:text-6xl">🐍</span>
-                </motion.div>
+                <motion.div className="relative">
+                  {/* Floating Snake Icon */}
+                  <motion.div
+                    animate={{ y: [0, 10, 0] }}
+                    transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" } as any}
+                    className="z-10"
+                  >
+                    <span className="text-4xl md:text-6xl">🐍</span>
+                  </motion.div>
 
-                {/* Floating Robot Icon (Visible on Desktop) */}
-                <motion.div
-                  className="hidden sm:block absolute top-1/4 -right-8 md:-right-12 p-3 bg-card rounded-xl border border-border shadow-2xl"
-                  animate={{ y: [0, -8, 0], rotate: [0, 5, 0] }}
-                  transition={{ duration: 3.5, repeat: Infinity, ease: "easeInOut", delay: 0.5 } as any}
-                >
-                  <span className="text-2xl md:text-3xl">🤖</span>
-                </motion.div>
+                  {/* Floating Robot Icon (Visible on Desktop) */}
+                  <motion.div
+                    className="hidden sm:block absolute top-1/4 -right-8 md:-right-12 p-3 bg-card rounded-xl border border-border shadow-2xl"
+                    animate={{ y: [0, -8, 0], rotate: [0, 5, 0] }}
+                    transition={{ duration: 3.5, repeat: Infinity, ease: "easeInOut", delay: 0.5 } as any}
+                  >
+                    <span className="text-2xl md:text-3xl">🤖</span>
+                  </motion.div>
 
-                {/* Background Glow Effect */}
-                <div className="absolute -inset-4 bg-primary/20 blur-3xl -z-10 rounded-full" />
-              </motion.div>
+                  {/* Background Glow Effect */}
+                  <div className="absolute -inset-4 bg-primary/20 blur-3xl -z-10 rounded-full" />
+                </motion.div>
+              </div>
             </div>
+          </motion.div>
 
           <motion.div
             className="space-y-6 md:space-y-8 text-center lg:text-left order-2 lg:order-1"
