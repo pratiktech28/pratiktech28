@@ -41,6 +41,9 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 - ⚡ Fun fact **I spend more time debugging Keploy PRs than sleeping! 🤖**
 
 ---
+
+<img width="322" height="148" alt="Screenshot From 2026-04-15 19-35-06" src="https://github.com/user-attachments/assets/33885233-36ff-40d9-8248-8795cde1803d" />
+
 ## 🏆 Open Source & Recognitions
 
 <table border="0">
