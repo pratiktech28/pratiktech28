@@ -115,6 +115,9 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 
 ---
 
+<img width="1200" height="600" alt="gprmax_kuber_simulations" src="https://github.com/user-attachments/assets/57e5c6a6-dbb0-4765-9a53-e42cbf19a2ed" />
+
+
 **🎯 Key Core Milestones**
 Domain,Achievement,Tech Stack
 
