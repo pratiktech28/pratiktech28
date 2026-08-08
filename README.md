@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prateek! 🏗️ Systems Architect & AI Engineering Pathbreaker</h1>
+<h1 align="center">Hi 👋, I'm Prateek! Full-Stack & AI Systems Engineer | Open Source Contributor</h1>
 <h3 align="center">🚀 AI/ML Enthusiast | 🤖 Infrastructure & Devops | 🎯 Passionate about building real world solutions </h3>
 
 
