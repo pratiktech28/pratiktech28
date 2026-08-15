@@ -40,72 +40,55 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   const schemaData = {
-    "@context": "https://schema.org/",
+    "@context": "https://schema.org",
     "@type": "Person",
     "name": "Prateek Sharma",
-    "alternateName": ["pratiktech28", "Pratik Sharma"],
-    "url": "https://portfolio-v0-seven-pi.vercel.app/",
-    "image": "https://github.com/pratiktech28.png",
-    "jobTitle": "Infrastructure Cloud Architect & Open Source Engineer",
-    "description": "Google Verified Software Developer and GSoC '26 Contributor at gprMax. Leading infrastructure automation and cloud-native architecture. Official Core Contributor at Keploy with expertise in Go, TypeScript, and DevOps.",
+    "alternateName": "Pratik Sharma",
+    "url": "https://pratiksharma.me",
+    "image": "https://pratiksharma.me/profile-pic.jpg",
+    "jobTitle": "Infrastructure Cloud Architect & Open Source Contributor",
+    "description": "Official Core Contributor at Keploy, Infrastructure Cloud Architect, and GSoC 2026 Contributor for gprMax. Expert in DevOps, Kubernetes, and Cloud-Native systems.",
     "sameAs": [
-      "https://github.com/pratiktech28",
-      "https://www.linkedin.com/in/pratiktech28",
-      "https://twitter.com/pratiktech28",
-      "https://search.google.com/local/writereview?placeid=VERIFIED_ENTITY_ID"
+      "https://www.linkedin.com/in/prateeksharmadev",
+      "https://github.com/prateeksharmadev",
+      "https://www.instagram.com/prateeksharmadev",
+      "https://www.kaggle.com/prateeksharmadev",
+      "https://discordapp.com/users/prateeksharmadev",
+      "https://twitter.com/prateeksharmadev"
     ],
     "knowsAbout": [
-      "Cloud Native Computing Foundation (CNCF)",
-      "Infrastructure as Code (IaC)",
-      "Google Summer of Code (GSoC)",
-      "gprMax Electromagnetic Simulation",
-      "Automated CI/CD Pipelines",
-      "Docker & Kubernetes",
-      "Cloud Security",
-      "API Regression Testing"
-    ],
-    "memberOf": [
-      {
-        "@type": "Organization",
-        "name": "Keploy",
-        "url": "https://keploy.io",
-        "role": "Official Core Contributor",
-        "description": "Actively maintaining and contributing to core API testing infrastructure."
-      },
-      {
-        "@type": "Organization",
-        "name": "Google Summer of Code",
-        "url": "https://summerofcode.withgoogle.com/",
-        "role": "GSoC 2026 Contributor",
-        "member": {
-          "@type": "SoftwareSourceCode",
-          "name": "gprMax",
-          "description": "Implementing high-performance infrastructure pipelines for electromagnetic simulation software."
-        }
-      }
-    ],
-    "hasCredential": [
-      {
-        "@type": "EducationalOccupationalCredential",
-        "name": "Google Search Verified Entity Status",
-        "credentialCategory": "Digital Identity Verification"
-      },
-      {
-        "@type": "EducationalOccupationalCredential",
-        "name": "Open Source Core Contributor Badge",
-        "recognizedBy": "Keploy & GSoC Community"
-      }
-    ],
-    "award": [
-      "Verified Google Knowledge Panel Status",
-      "GSoC '26 Selected Proposal for gprMax",
-      "Keploy Community Recognition Award"
+      "Cloud Computing",
+      "Kubernetes",
+      "Docker",
+      "Infrastructure as Code",
+      "Open Source Development",
+      "Technical SEO",
+      "Fedora Linux",
+      "Go Programming"
     ],
     "worksFor": {
       "@type": "Organization",
-      "name": "Open Source Ecosystem",
-      "location": "Global / Remote"
-    }
+      "name": "Keploy",
+      "sameAs": "https://keploy.io"
+    },
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "Chameli Devi Group of Institutions, Indore",
+      "sameAs": "https://www.cdgi.edu.in"
+    },
+    "memberOf": [
+      {
+        "@type": "Organization",
+        "name": "Google Summer of Code",
+        "alternateName": "GSoC 2026",
+        "url": "https://summerofcode.withgoogle.com"
+      },
+      {
+        "@type": "Organization",
+        "name": "gprMax",
+        "url": "https://www.gprmax.com"
+      }
+    ]
   }
 
   return (
