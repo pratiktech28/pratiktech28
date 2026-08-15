@@ -22,6 +22,8 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 
 ---
 
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/pratiktech28)
+
 - 🔭 I’m currently working on [open source contributer](https://github.com/pratiktech28/keploy.git)
 
 - 🌱 I’m currently learning **I'm currently exploring Web Development to complement my AI/ML skills — learning how to build responsive, intelligent, and user-friendly web apps. From mastering HTML, CSS, and JavaScript to integrating backend logic with Flask and FastAPI, I'm focused on creating seamless experiences powered by smart models ,Go , Docker , python and machine learning , Spanner .**
@@ -39,6 +41,7 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 - 📫 How to reach me **pratiktech28@gmail.com**
 
 - ⚡ Fun fact **I spend more time debugging Keploy PRs than sleeping! 🤖**
+
 
 ---
 
