@@ -41,21 +41,6 @@ I'm an enthusiastic as an Artificial Intelligence and Machine Learning engineer,
 - 📫 How to reach me **pratiktech28@gmail.com**
 
 - ⚡ Fun fact **I spend more time debugging Keploy PRs than sleeping! 🤖**
-
-
----
-
-<img width="322" height="148" alt="Screenshot From 2026-04-15 19-35-06" src="https://github.com/user-attachments/assets/33885233-36ff-40d9-8248-8795cde1803d" />
-
----
-
-<div align="center">
- <img width="420" height="120" alt="image" src="https://github.com/user-attachments/assets/c9525545-9ff6-4a16-923c-960e5a766e22" />
-
-
-<p align="center">
-  <strong>🚀 Engineering a Robust <a href="https://github.com/pratiktech28/gprmax_integration_test">Validation Engine</a> for gprMax @ GSoC 2026</strong>
-</p>
 ---
 
 **🛠️ Technical Arsenal & Core Competencies**
